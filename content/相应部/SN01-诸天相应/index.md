@@ -13,18 +13,18 @@ tags: [相應部, 有偈篇, 諸天相應]
 
 ## 第一品：蘆葦品（Naḷavagga）SN 1.1–10
 
-| 經號 | 經名 | 巴利名 |
-|---|---|---|
-| [[SN1.1-暴流渡过\|SN 1.1]] | 暴流渡過 | Oghataraṇasutta |
-| SN 1.2 | 解脫 | Nimokkhasutta |
-| SN 1.3 | 沈沒 | Upaneyyasutta |
-| SN 1.4 | 時間流逝 | Accayantisutta |
-| SN 1.5 | 何人… | Kasutta |
-| SN 1.6 | 甦醒 | Jāgarasutta |
-| SN 1.7 | 無慚 | Appaṭividitasutta |
-| SN 1.8 | 纏結 | Kuṭikāsutta |
-| SN 1.9 | 森林 | Mānasakatasutta |
-| SN 1.10 | 歡喜 | Āraññasutta |
+| 經號 | 經名 | 巴利名 | 主題 |
+|---|---|---|---|
+| [[SN1.1-暴流渡过\|SN 1.1]] | 暴流渡過 | Oghataraṇasutta | 中道：無住立、無用力 |
+| [[SN1.2-解脱\|SN 1.2]] | 解脫 | Nimokkhasutta | 道—果—涅槃三層次 |
+| [[SN1.3-被带走\|SN 1.3]] | 被帶走 | Upanīyasutta | 生命被帶向老死 |
+| [[SN1.4-流逝\|SN 1.4]] | 流逝 | Accentisutta | 時間流逝、捨世間欲 |
+| [[SN1.5-切断多少\|SN 1.5]] | 切斷多少 | Katichindasutta | 五下分結、五上分結、五根 |
+| [[SN1.6-清醒\|SN 1.6]] | 清醒 | Jāgarasutta | 五根 vs 五蓋 |
+| [[SN1.7-未确知\|SN 1.7]] | 未確知 | Appaṭividitasutta | 正見（了知四聖諦）的重要 |
+| [[SN1.8-极忘失\|SN 1.8]] | 極忘失 | Susammuṭṭhasutta | 正念（不失念）的重要 |
+| [[SN1.9-慢之爱欲\|SN 1.9]] | 慢之愛欲者 | Mānakāmasutta | 捨慢、不放逸、得定 |
+| [[SN1.10-林野\|SN 1.10]] | 林野 | Araññasutta | 活在當下；蘆葦品得名之由 |
 
 ---
 
