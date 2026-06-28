@@ -12,24 +12,17 @@ tags: [相應部, 諸天相應, 有偈篇, 巴利原文, 義注]
 
 ## 一、巴利原文
 
-*（Mahāsaṅgīti 版，CC0）*
-
-```
-Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike
-imaṃ gāthaṃ abhāsi–
-
-[天神偈]
-"Kati jāgarataṃ suttā, kati suttesu jāgarā;
- Katibhi rajamādeti, katibhi parisujjhatī"ti.
-
-[世尊偈]
-"Pañca jāgarataṃ suttā, pañca suttesu jāgarā;
- Pañcabhi rajamādeti, pañcabhi parisujjhatī"ti.
-```
+> Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+>
+> "**Kati jāgarataṃ suttā, kati suttesu jāgarā;  
+> Katibhi rajamādeti, katibhi parisujjhatī**"ti.
+>
+> "**Pañca jāgarataṃ suttā, pañca suttesu jāgarā;  
+> Pañcabhi rajamādeti, pañcabhi parisujjhatī**"ti.
 
 ---
 
-## 二、漢譯（莊春江譯，參考）
+## 二、漢譯（莊春江，參考）
 
 天神：
 > 「當清醒時多少已睡？在已睡時多少清醒？  
@@ -45,56 +38,75 @@ imaṃ gāthaṃ abhāsi–
 
 | 巴利詞 | 語法 | 字義 |
 |---|---|---|
-| **jāgarataṃ** | 現在分詞，屬格複數（√*jāgar*）| 清醒者的 |
-| **suttā** | 形容詞，主格複數（√*sup*）| 已睡的、在睡眠的 |
+| **jāgarataṃ** | 現在分詞，屬格複數 | 清醒者的 |
+| **suttā** | 形容詞，主格複數 | 已睡的 |
 | **suttesu** | 形容詞，處格複數 | 在已睡者中 |
 | **jāgarā** | 形容詞，主格複數 | 清醒的 |
-| **rajam** | 名詞，業格（*raja*）| 塵垢、汙染 |
-| **ādeti** | 動詞，現在式（*ā* + √*dā*）| 抓取、接受 |
-| **parisujjhati** | 動詞，現在式被動（*pari* + √*sudh*）| 被清淨 |
-| **pañcabhi** | 數詞，具格複數 | 以五（者/事） |
+| **rajam** | 名詞，業格 | 塵垢、汙染 |
+| **ādeti** | 動詞（*ā* + √*dā*）| 抓取 |
+| **parisujjhati** | 動詞被動（*pari* + √*sudh*）| 被清淨 |
 
 ---
 
 ## 四、義注（Sāratthappakāsinī）
 
-義注（SA）以**五根** vs **五蓋**的對比詮釋「清醒」與「睡眠」的比喻：
+*SA（PTS）1:24–25*
 
-### 4.1 清醒時睡的五 = 五蓋（*pañca nīvaraṇāni*）
+### 4.1 清醒時睡的五 = 五蓋
 
-當五根（信、進、念、定、慧）清醒運作時，五蓋相當於「睡著了」：
+**〔SA 原文〕**
 
-| 蓋 | 巴利 | 說明 |
-|---|---|---|
-| 欲欲蓋 | *kāmacchanda* | 對欲樂的貪求 |
-| 瞋恚蓋 | *byāpāda* | 惡意 |
-| 昏沈睡眠蓋 | *thīnamiddha* | 心的遲鈍昏沈 |
-| 掉舉惡作蓋 | *uddhaccakukkucca* | 心的散亂與悔恨 |
-| 疑蓋 | *vicikicchā* | 對修道的猶豫 |
+> *"Pañca jāgarataṃ suttā"ti – pañcahi indriyanisampannassa pañca nīvaraṇāni suttāneva honti.*  
+> *Tassa hi koci samaye nisīnassāpi ṭhitassāpi pabhātekāle uṭṭhāhitvā appamatto kusalo jāgaro hoti, nīvaraṇāni pana suttāni.*
 
-「具備五根的人，任何時候——即使坐、立、黎明起來——都不放逸，善法醒著；五蓋睡著。」（SA）
+**〔漢譯〕**  
+「『清醒時五已睡』——具備五根的人，五蓋相當於睡著了。  
+因為他不管坐著、站著，還是黎明起身，都是不放逸、善法清醒的；  
+五蓋（對他而言）則是睡著的。」
 
-### 4.2 睡眠時醒的五 = 五根（*pañcindriyāni*）
+五蓋（*pañca nīvaraṇāni*）：欲欲（*kāmacchanda*）、瞋恚（*byāpāda*）、昏沈睡眠（*thīnamiddha*）、掉舉惡作（*uddhaccakukkucca*）、疑（*vicikicchā*）。
 
-當五蓋現前時，五根「睡著」——即使身體在睡覺，有五蓋的人的善根是休眠的：
+---
 
-「具備五蓋的人，即使躺下睡覺，也是放逸、不善醒著的；五根睡著。」（SA）
+### 4.2 睡眠時醒的五 = 五根
 
-### 4.3 抓取塵垢的五 = 五蓋
+**〔SA 原文〕**
 
-五蓋令心積聚雜染（*raja*），阻礙禪定與智慧的生起。
+> *"Pañca suttesu jāgarā"ti – pañcanīvaraṇanisampannassa pañca indriyāni jāgaranteva honti.*  
+> *Tassa hi koci samaye sayantassāpi pamatto akusalo sutto hoti, indriyāni pana jāgaranti.*
 
-### 4.4 清淨的五 = 五根
+**〔漢譯〕**  
+「『已睡時五清醒』——具備五蓋的人，五根相當於清醒著。  
+因為他不管何時躺下睡覺，都是放逸、不善、（心）睡著的；  
+五根（對他而言）則是清醒的——意即善根雖存在，卻未現起運作。」
 
-五根使心清淨，前者（欲欲等）以後者（信等）為緣而被淨化。
+五根（*pañca indriyāni*）：信（*saddhā*）、精進（*viriya*）、念（*sati*）、定（*samādhi*）、慧（*paññā*）。
+
+---
+
+### 4.3 抓取塵垢者 = 五蓋；清淨者 = 五根
+
+**〔SA 原文〕**
+
+> *"Pañcabhi rajamādeti"ti – pañcahi nīvaraṇehi rāgādīni rajāni ādeti gaṇhāti.*  
+> *"Pañcabhi parisujjhatī"ti – pañcahi indriyanisampannassa puggalassa kiles'ādihi parisuddhattā.*
+
+**〔漢譯〕**  
+「『以五抓取塵垢』——以五蓋抓取貪等塵垢。  
+『以五被清淨』——具備五根的人，因清淨煩惱等。」
 
 ---
 
 ## 五、復注（Sāratthappakāsinī-ṭīkā）
 
-復注進一步說明「睡眠」的比喻：
+**〔SAPṬ 說明〕**
 
-「五蓋被稱為『睡著』，是因為它們令修道者沈沈沉沉，失去覺察力；五根被稱為『清醒』，是因為它們維持心的明照與不放逸。此對比提醒修行者：真正的清醒不在於身體，而在於心中善法的現前。」
+> 義注以「睡著」比喻五蓋，以「清醒」比喻五根，是就**功能**而言：  
+> 蓋，遮蔽（*āvaraṇa*）善法，使心昏昏沉沉；  
+> 根，根植（*mūla*）善法，使心清醒明照。  
+> 兩者不同時完全現起：蓋強時，根弱；根強時，蓋不現前。
+
+此對比提醒修行者：「清醒」不在於身體，而在於心中五根是否現起。
 
 ---
 
