@@ -14,9 +14,6 @@ title: 巴利語學習站
   - [[相应部/SN01-诸天相应/index|SN 1 諸天相應]]（Devatāsaṃyutta）
     - 蘆葦品（SN 1.1–1.10）✓ 含巴利原文、逐詞、義注、復注
 
-### 小部（Khuddakanikāya）
-- [[大吉祥經]] — Maṅgalasutta
-
 ## 學習方法
 
 每部經文包含：
