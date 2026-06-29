@@ -1,18 +1,18 @@
 ---
-title: SN 1.1 暴流渡過（Oghataraṇasutta）
-tags: [相應部, 諸天相應, 有偈篇, 巴利原文, 義注, 復注, 逐詞解析]
+title: SN 1.1 暴流渡过（Oghataraṇasutta）
+tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词解析]
 ---
 
-# SN 1.1 暴流渡過（Oghataraṇasutta）
+# SN 1.1 暴流渡过（Oghataraṇasutta）
 
-**出處**：相應部 · 有偈篇 · 諸天相應 · 蘆葦品第一  
+**出处**：相应部 · 有偈篇 · 诸天相应 · 芦苇品第一  
 **PTS**：S i 1–2 ｜ **Mahāsaṅgīti**：SN 1.1
 
 ---
 
-## 一、經文逐詞解析（Nissaya）
+## 一、经文逐词解析（Nissaya）
 
-*巴利原文：Mahāsaṅgīti 版，CC0 公共領域*
+*巴利原文：Mahāsaṅgīti 版，CC0 公共领域*
 
 ---
 
@@ -20,140 +20,140 @@ tags: [相應部, 諸天相應, 有偈篇, 巴利原文, 義注, 復注, 逐詞�
 
 > Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
 
-**Evaṃ**〔副詞〕如是，**me**〔代詞·屬格〕我，**sutaṃ**〔PPP·主格〕所聞——  
-*如是，我聞。*
+**Evaṃ**〔副词〕如是，**me**〔代词·属格〕我，**sutaṃ**〔PPP·主格〕所闻——  
+*如是，我闻。*
 
-**ekaṃ**〔數詞·業格〕一，**samayaṃ**〔名詞·業格〕時，**bhagavā**〔名詞·主格〕世尊，**sāvatthiyaṃ**〔地名·處格〕於舍衛城，**viharati**〔動詞·現在式·三單〕住，**jetavane**〔地名·處格〕祇樹園，**anāthapiṇḍikassa**〔名詞·屬格〕給孤獨長者的，**ārāme**〔名詞·處格〕園——  
-*一時，世尊住於舍衛城給孤獨長者的祇園中。*
+**ekaṃ**〔数词·业格〕一，**samayaṃ**〔名词·业格〕时，**bhagavā**〔名词·主格〕世尊，**sāvatthiyaṃ**〔地名·处格〕于舍卫城，**viharati**〔动词·现在式·三单〕住，**jetavane**〔地名·处格〕祇树园，**anāthapiṇḍikassa**〔名词·属格〕给孤独长者的，**ārāme**〔名词·处格〕园——  
+*一时，世尊住于舍卫城给孤独长者的祇园中。*
 
 ---
 
-### 1.2 天神來訪
+### 1.2 天神来访
 
 > Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.
 
-**Atha**〔副詞〕然後，**kho**〔強調小詞〕確實，**aññatarā**〔代詞·主格〕某位，**devatā**〔名詞·主格〕天神，**abhikkantāya**〔形容詞·處格〕深夜，**rattiyā**〔名詞·處格〕夜，**abhikkantavaṇṇā**〔複合詞·主格，= abhikkanta + vaṇṇa〕極美光色（的），**kevalakappaṃ**〔副詞〕幾乎整個，**jetavanaṃ**〔地名·業格〕祇園，**obhāsetvā**〔動詞·絕對分詞，ava + √bhās〕照亮後——  
-*然後，某位天神於深夜，以極美光色幾乎照亮整個祇園，*
+**Atha**〔副词〕然后，**kho**〔强调小词〕确实，**aññatarā**〔代词·主格〕某位，**devatā**〔名词·主格〕天神，**abhikkantāya**〔形容词·处格〕深夜，**rattiyā**〔名词·处格〕夜，**abhikkantavaṇṇā**〔复合词·主格，= abhikkanta + vaṇṇa〕极美光色（的），**kevalakappaṃ**〔副词〕几乎整个，**jetavanaṃ**〔地名·业格〕祇园，**obhāsetvā**〔动词·绝对分词，ava + √bhās〕照亮后——  
+*然后，某位天神于深夜，以极美光色几乎照亮整个祇园，*
 
-**yena**〔關係代詞·具格〕（往）……之處，**bhagavā**〔名詞·主格〕世尊（所在），**tena**〔指示代詞·具格，慣用句型 yena X tena〕往那裡，**upasaṅkami**〔動詞·不定過去式·三單，upa + saṃ + √gam〕靠近；**upasaṅkamitvā**〔動詞·絕對分詞〕靠近後，**bhagavantaṃ**〔名詞·業格〕世尊，**abhivādetvā**〔動詞·絕對分詞，abhi + √vad〕頂禮後，**ekamantaṃ**〔副詞〕一旁，**aṭṭhāsi**〔動詞·不定過去式·三單，√ṭhā〕站立——  
-*靠近世尊所在之處；靠近後，頂禮世尊，站在一旁。*
+**yena**〔关系代词·具格〕（往）……之处，**bhagavā**〔名词·主格〕世尊（所在），**tena**〔指示代词·具格，惯用句型 yena X tena〕往那里，**upasaṅkami**〔动词·不定过去式·三单，upa + saṃ + √gam〕靠近；**upasaṅkamitvā**〔动词·绝对分词〕靠近后，**bhagavantaṃ**〔名词·业格〕世尊，**abhivādetvā**〔动词·绝对分词，abhi + √vad〕顶礼后，**ekamantaṃ**〔副词〕一旁，**aṭṭhāsi**〔动词·不定过去式·三单，√ṭhā〕站立——  
+*靠近世尊所在之处；靠近后，顶礼世尊，站在一旁。*
 
 > Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca –
 
-**Ekamantaṃ**〔副詞〕一旁，**ṭhitā**〔PPP·主格，√ṭhā〕站立的，**kho**〔強調小詞〕確實，**sā**〔代詞·主格〕那位，**devatā**〔名詞·主格〕天神，**bhagavantaṃ**〔名詞·業格〕世尊，**etadavoca**〔= etaṃ + avoca；代詞·業格 + 動詞·不定過去式，√vac〕如此說——  
-*站在一旁的那位天神對世尊如此說：*
+**Ekamantaṃ**〔副词〕一旁，**ṭhitā**〔PPP·主格，√ṭhā〕站立的，**kho**〔强调小词〕确实，**sā**〔代词·主格〕那位，**devatā**〔名词·主格〕天神，**bhagavantaṃ**〔名词·业格〕世尊，**etadavoca**〔= etaṃ + avoca；代词·业格 + 动词·不定过去式，√vac〕如此说——  
+*站在一旁的那位天神对世尊如此说：*
 
 ---
 
-### 1.3 對話
+### 1.3 对话
 
 > "Kathaṃ nu tvaṃ, mārisa, oghamatarī"ti?
 
-**"Kathaṃ**〔疑問副詞〕如何，**nu**〔疑問小詞〕呢，**tvaṃ**〔代詞·主格〕你，**mārisa**〔呼格〕尊者，**ogham**〔名詞·業格〕暴流，**atarī"**〔動詞·不定過去式·二單，√tar〕渡過——  
-*「尊者！你是如何渡過暴流的？」*
+**"Kathaṃ**〔疑问副词〕如何，**nu**〔疑问小词〕呢，**tvaṃ**〔代词·主格〕你，**mārisa**〔呼格〕尊者，**ogham**〔名词·业格〕暴流，**atarī"**〔动词·不定过去式·二单，√tar〕渡过——  
+*「尊者！你是如何渡过暴流的？」*
 
 > "Appatiṭṭhaṃ khvāhaṃ, āvuso, anāyūhaṃ oghamatarin"ti.
 
-**"Appatiṭṭhaṃ**〔形容詞·業格，a + patiṭṭha〕無住立，**khvāhaṃ**〔= kho + ahaṃ；強調小詞 + 代詞·主格〕我確實，**āvuso**〔呼格〕朋友，**anāyūhaṃ**〔形容詞·業格，a + āyūha〕無用力，**ogham**〔名詞·業格〕暴流，**atarin"**〔動詞·不定過去式·一單，√tar〕渡過——  
-*「朋友！我確實無住立、無用力地渡過了暴流。」*
+**"Appatiṭṭhaṃ**〔形容词·业格，a + patiṭṭha〕无住立，**khvāhaṃ**〔= kho + ahaṃ；强调小词 + 代词·主格〕我确实，**āvuso**〔呼格〕朋友，**anāyūhaṃ**〔形容词·业格，a + āyūha〕无用力，**ogham**〔名词·业格〕暴流，**atarin"**〔动词·不定过去式·一单，√tar〕渡过——  
+*「朋友！我确实无住立、无用力地渡过了暴流。」*
 
 > "Yathā kathaṃ pana tvaṃ, mārisa, appatiṭṭhaṃ anāyūhaṃ oghamatarī"ti?
 
-**"Yathā**〔副詞〕如何，**kathaṃ**〔疑問副詞〕怎樣，**pana**〔小詞〕那麼，**tvaṃ**〔代詞·主格〕你，**mārisa**〔呼格〕尊者，**appatiṭṭhaṃ**〔形容詞·業格〕無住立，**anāyūhaṃ**〔形容詞·業格〕無用力，**ogham**〔名詞·業格〕暴流，**atarī"**〔動詞·不定過去式·二單〕渡過——  
-*「尊者！那你是如何無住立、無用力地渡過暴流的？」*
+**"Yathā**〔副词〕如何，**kathaṃ**〔疑问副词〕怎样，**pana**〔小词〕那么，**tvaṃ**〔代词·主格〕你，**mārisa**〔呼格〕尊者，**appatiṭṭhaṃ**〔形容词·业格〕无住立，**anāyūhaṃ**〔形容词·业格〕无用力，**ogham**〔名词·业格〕暴流，**atarī"**〔动词·不定过去式·二单〕渡过——  
+*「尊者！那你是如何无住立、无用力地渡过暴流的？」*
 
 > "Yadākhvāhaṃ, āvuso, santiṭṭhāmi tadāssu saṃsīdāmi; yadākhvāhaṃ, āvuso, āyūhāmi tadāssu nibbuyhāmi. Evaṃ khvāhaṃ, āvuso, appatiṭṭhaṃ anāyūhaṃ oghamatarin"ti.
 
-**"Yadākhvāhaṃ**〔= yadā + kho + ahaṃ；副詞 + 強調詞 + 代詞·主格〕當我確實，**āvuso**〔呼格〕朋友，**santiṭṭhāmi**〔動詞·現在式·一單，saṃ + √ṭhā〕停住，**tadāssu**〔= tadā + su；副詞 + 強調小詞〕那時確實，**saṃsīdāmi**〔動詞·現在式·一單，saṃ + √sad〕沈沒；  
-**yadākhvāhaṃ**〔同上〕當我確實，**āvuso**〔呼格〕朋友，**āyūhāmi**〔動詞·現在式·一單，ā + √yuh〕用力，**tadāssu**〔同上〕那時確實，**nibbuyhāmi**〔動詞·現在式·一單·被動，ni + √vah〕被飄走。  
-**Evaṃ**〔副詞〕這樣，**khvāhaṃ**〔同上〕我確實，**āvuso**〔呼格〕朋友，**appatiṭṭhaṃ**〔形容詞·業格〕無住立，**anāyūhaṃ**〔形容詞·業格〕無用力，**ogham**〔名詞·業格〕暴流，**atarin"**〔動詞·不定過去式·一單〕渡過——  
-*「朋友！當我停住時，那時我就沈沒；當我用力時，那時我就被飄走。朋友！我就是這樣無住立、無用力地渡過了暴流。」*
+**"Yadākhvāhaṃ**〔= yadā + kho + ahaṃ；副词 + 强调词 + 代词·主格〕当我确实，**āvuso**〔呼格〕朋友，**santiṭṭhāmi**〔动词·现在式·一单，saṃ + √ṭhā〕停住，**tadāssu**〔= tadā + su；副词 + 强调小词〕那时确实，**saṃsīdāmi**〔动词·现在式·一单，saṃ + √sad〕沉没；  
+**yadākhvāhaṃ**〔同上〕当我确实，**āvuso**〔呼格〕朋友，**āyūhāmi**〔动词·现在式·一单，ā + √yuh〕用力，**tadāssu**〔同上〕那时确实，**nibbuyhāmi**〔动词·现在式·一单·被动，ni + √vah〕被飘走。  
+**Evaṃ**〔副词〕这样，**khvāhaṃ**〔同上〕我确实，**āvuso**〔呼格〕朋友，**appatiṭṭhaṃ**〔形容词·业格〕无住立，**anāyūhaṃ**〔形容词·业格〕无用力，**ogham**〔名词·业格〕暴流，**atarin"**〔动词·不定过去式·一单〕渡过——  
+*「朋友！当我停住时，那时我就沉没；当我用力时，那时我就被飘走。朋友！我就是这样无住立、无用力地渡过了暴流。」*
 
 ---
 
-### 1.4 偈頌
+### 1.4 偈颂
 
 > "Cirassaṃ vata passāmi, brāhmaṇaṃ parinibbutaṃ;  
 > Appatiṭṭhaṃ anāyūhaṃ, tiṇṇaṃ loke visattikan"ti.
 
-**"Cirassaṃ**〔副詞〕久遠之後，**vata**〔感嘆詞〕確實啊，**passāmi**〔動詞·現在式·一單，√dis〕我看見，**brāhmaṇaṃ**〔名詞·業格〕婆羅門，**parinibbutaṃ**〔PPP·業格，pari + ni + √vā〕已般涅槃的；  
-**Appatiṭṭhaṃ**〔形容詞·業格〕無住立，**anāyūhaṃ**〔形容詞·業格〕無用力，**tiṇṇaṃ**〔PPP·業格，√tar〕已渡過的，**loke**〔名詞·處格〕世間（中），**visattikan"**〔形容詞·業格，vi + √sañj〕（對世間的）執著——  
-*「久遠之後，我終於確實看見了已般涅槃的婆羅門；無住立、無用力，已渡過世間中的執著。」*
+**"Cirassaṃ**〔副词〕久远之后，**vata**〔感叹词〕确实啊，**passāmi**〔动词·现在式·一单，√dis〕我看见，**brāhmaṇaṃ**〔名词·业格〕婆罗门，**parinibbutaṃ**〔PPP·业格，pari + ni + √vā〕已般涅槃的；  
+**Appatiṭṭhaṃ**〔形容词·业格〕无住立，**anāyūhaṃ**〔形容词·业格〕无用力，**tiṇṇaṃ**〔PPP·业格，√tar〕已渡过的，**loke**〔名词·处格〕世间（中），**visattikan"**〔形容词·业格，vi + √sañj〕（对世间的）执著——  
+*「久远之后，我终于确实看见了已般涅槃的婆罗门；无住立、无用力，已渡过世间中的执著。」*
 
 ---
 
-### 1.5 結語
+### 1.5 结语
 
 > Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā "samanuñño me satthā"ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyīti.
 
-**Idamavoca**〔= idaṃ + avoca；代詞·業格 + 動詞·不定過去式〕說了此（話），**sā**〔代詞·主格〕那位，**devatā**〔名詞·主格〕天神——  
-*那位天神說了這番話。*
+**Idamavoca**〔= idaṃ + avoca；代词·业格 + 动词·不定过去式〕说了此（话），**sā**〔代词·主格〕那位，**devatā**〔名词·主格〕天神——  
+*那位天神说了这番话。*
 
-**Samanuñño**〔形容詞·主格，saṃ + anuñña〕滿意的，**satthā**〔名詞·主格〕導師，**ahosi**〔動詞·不定過去式·三單，√as〕是——  
-*導師滿意了。*
+**Samanuñño**〔形容词·主格，saṃ + anuñña〕满意的，**satthā**〔名词·主格〕导师，**ahosi**〔动词·不定过去式·三单，√as〕是——  
+*导师满意了。*
 
-**Atha**〔副詞〕然後，**kho**〔強調小詞〕確實，**sā**〔代詞·主格〕那位，**devatā**〔名詞·主格〕天神，**"samanuñño**〔形容詞·主格〕滿意的，**me**〔代詞·屬格〕我的，**satthā"**〔名詞·主格〕導師，**ti**〔引語詞〕（如此想），**bhagavantaṃ**〔名詞·業格〕世尊，**abhivādetvā**〔動詞·絕對分詞〕頂禮後，**padakkhiṇaṃ**〔副詞〕右繞，**katvā**〔動詞·絕對分詞，√kar〕作了，**tattheva**〔= tattha + eva；副詞 + 強調詞〕就在那裡，**antaradhāyī**〔動詞·不定過去式·三單，antara + √dhā〕消失——  
-*然後，那位天神想著「導師對我滿意了」，頂禮世尊，右繞，就在那裡消失了。*
+**Atha**〔副词〕然后，**kho**〔强调小词〕确实，**sā**〔代词·主格〕那位，**devatā**〔名词·主格〕天神，**"samanuñño**〔形容词·主格〕满意的，**me**〔代词·属格〕我的，**satthā"**〔名词·主格〕导师，**ti**〔引语词〕（如此想），**bhagavantaṃ**〔名词·业格〕世尊，**abhivādetvā**〔动词·绝对分词〕顶礼后，**padakkhiṇaṃ**〔副词〕右绕，**katvā**〔动词·绝对分词，√kar〕作了，**tattheva**〔= tattha + eva；副词 + 强调词〕就在那里，**antaradhāyī**〔动词·不定过去式·三单，antara + √dhā〕消失——  
+*然后，那位天神想著「导师对我满意了」，顶礼世尊，右绕，就在那里消失了。*
 
 ---
 
-## 二、漢譯（莊春江，參考）
+## 二、汉译（庄春江，参考）
 
-> 「朋友！當我住立時，那時，我沈沒；朋友！當我用力時，那時，我被飄走。朋友！這樣，我無住立、無用力地渡過暴流。」
+> 「朋友！当我住立时，那时，我沉没；朋友！当我用力时，那时，我被飘走。朋友！这样，我无住立、无用力地渡过暴流。」
 >
-> 「終於我確實看見，般涅槃的婆羅門：  
-> 無住立、無用力地，已度脫世間中的執著。」
+> 「终于我确实看见，般涅槃的婆罗门：  
+> 无住立、无用力地，已度脱世间中的执著。」
 
 ---
 
-## 三、義注逐詞解析（Sāratthappakāsinī）
+## 三、义注逐词解析（Sāratthappakāsinī）
 
-*覺音論師（Buddhaghosa Thera）造，五世紀。  
+*觉音论师（Buddhaghosa Thera）造，五世纪。  
 原典：SA（PTS）1:17–20。*
 
 ---
 
-### 3.1 釋「mārisa」
+### 3.1 释「mārisa」
 
 **〔SA 原文〕**
 
 > *"Mārisā"ti pesalo bhaddako garū ālapanasaddo.*
 
-**〔逐詞〕**
+**〔逐词〕**
 
-**"Mārisā"**〔名詞·呼格〕尊者，**ti**〔引語詞〕——**pesalo**〔形容詞·主格〕尊貴的，**bhaddako**〔形容詞·主格〕美好的，**garū**〔形容詞·主格〕敬重的，**ālapanasaddo**〔複合詞·主格，= ālapana + sadda〕稱呼語——  
-*「mārisa」是尊貴、美好、敬重的稱呼語。*
+**"Mārisā"**〔名词·呼格〕尊者，**ti**〔引语词〕——**pesalo**〔形容词·主格〕尊贵的，**bhaddako**〔形容词·主格〕美好的，**garū**〔形容词·主格〕敬重的，**ālapanasaddo**〔复合词·主格，= ālapana + sadda〕称呼语——  
+*「mārisa」是尊贵、美好、敬重的称呼语。*
 
-**〔漢譯〕**  
-「『mārisa』是尊貴、美好、敬重的稱呼語。」
+**〔汉译〕**  
+「『mārisa』是尊贵、美好、敬重的称呼语。」
 
 ---
 
-### 3.2 釋「appatiṭṭhaṃ anāyūhaṃ」
+### 3.2 释「appatiṭṭhaṃ anāyūhaṃ」
 
 **〔SA 原文〕**
 
 > *"Appatiṭṭhan"ti samāpattisukhe appatiṭṭhahanto.*  
 > *"Anāyūhan"ti bhavataṇhāya āyūhanaṃ akaronto.*
 
-**〔逐詞〕**
+**〔逐词〕**
 
-**"Appatiṭṭhan"**〔形容詞·業格〕無住立，**ti**〔引語詞〕——**samāpattisukhe**〔複合詞·處格，= samāpatti + sukha〕等至之樂中，**appatiṭṭhahanto**〔現在分詞·主格，a + pati + √ṭhā〕不停住——  
-*「無住立」——不停住於等至（samāpatti）之樂中。*
+**"Appatiṭṭhan"**〔形容词·业格〕无住立，**ti**〔引语词〕——**samāpattisukhe**〔复合词·处格，= samāpatti + sukha〕等至之乐中，**appatiṭṭhahanto**〔现在分词·主格，a + pati + √ṭhā〕不停住——  
+*「无住立」——不停住于等至（samāpatti）之乐中。*
 
-**"Anāyūhan"**〔形容詞·業格〕無用力，**ti**〔引語詞〕——**bhavataṇhāya**〔複合詞·具格，= bhava + taṇhā〕以對有的渴愛，**āyūhanaṃ**〔動名詞·業格，ā + √yuh〕用力、掙扎，**akaronto**〔現在分詞·主格，a + √kar〕不作——  
-*「無用力」——不激起對有（bhava）的渴愛之掙扎。*
+**"Anāyūhan"**〔形容词·业格〕无用力，**ti**〔引语词〕——**bhavataṇhāya**〔复合词·具格，= bhava + taṇhā〕以对有的渴爱，**āyūhanaṃ**〔动名词·业格，ā + √yuh〕用力、挣扎，**akaronto**〔现在分词·主格，a + √kar〕不作——  
+*「无用力」——不激起对有（bhava）的渴爱之挣扎。*
 
-**〔漢譯〕**  
-「『無住立』——不停住於等至（*samāpatti*）之樂中。  
-『無用力』——不激起對有（*bhava*）的渴愛之掙扎。」
+**〔汉译〕**  
+「『无住立』——不停住于等至（*samāpatti*）之乐中。  
+『无用力』——不激起对有（*bhava*）的渴爱之挣扎。」
 
-**〔說明〕**  
-修道的核心是中道——既不執取禪定之樂（若停住，則如沈於水），也不激起欲求（若用力，則如被水沖走）。
+**〔说明〕**  
+修道的核心是中道——既不执取禅定之乐（若停住，则如沈于水），也不激起欲求（若用力，则如被水冲走）。
 
 ---
 
-### 3.3 釋四暴流
+### 3.3 释四暴流
 
 **〔SA 原文〕**
 
@@ -164,34 +164,34 @@ tags: [相應部, 諸天相應, 有偈篇, 巴利原文, 義注, 復注, 逐詞�
 > *Diṭṭhogho'ti dvāsaṭṭhi diṭṭhiyo.*  
 > *Avijjogho'ti catūsu saccesu aññāṇaṃ.*
 
-**〔逐詞〕**
+**〔逐词〕**
 
-**Cattāro**〔數詞·主格〕四，**oghā**〔名詞·主格複數〕暴流——**kāmogho**〔複合詞·主格，= kāma + ogha〕欲暴流，**bhavogho**〔複合詞·主格，= bhava + ogha〕有暴流，**diṭṭhogho**〔複合詞·主格，= diṭṭhi + ogha〕見暴流，**avijjogho**〔複合詞·主格，= avijjā + ogha〕無明暴流——  
-*暴流有四種：欲暴流、有暴流、見暴流、無明暴流。*
+**Cattāro**〔数词·主格〕四，**oghā**〔名词·主格复数〕暴流——**kāmogho**〔复合词·主格，= kāma + ogha〕欲暴流，**bhavogho**〔复合词·主格，= bhava + ogha〕有暴流，**diṭṭhogho**〔复合词·主格，= diṭṭhi + ogha〕见暴流，**avijjogho**〔复合词·主格，= avijjā + ogha〕无明暴流——  
+*暴流有四种：欲暴流、有暴流、见暴流、无明暴流。*
 
-**Kāmogho'ti**〔複合詞 + 引語詞〕欲暴流——**pañcakāmaguṇesu**〔複合詞·處格複數，= pañca + kāma + guṇa〕於五欲，**chando**〔名詞·主格，√chand〕欲求，**rāgo**〔名詞·主格，√rañj〕貪著——  
-*欲暴流：對五欲的欲求與貪著。*
+**Kāmogho'ti**〔复合词 + 引语词〕欲暴流——**pañcakāmaguṇesu**〔复合词·处格复数，= pañca + kāma + guṇa〕于五欲，**chando**〔名词·主格，√chand〕欲求，**rāgo**〔名词·主格，√rañj〕贪著——  
+*欲暴流：对五欲的欲求与贪著。*
 
-**Bhavogho'ti**〔複合詞 + 引語詞〕有暴流——**rūpārūpabhavesu**〔複合詞·處格複數，= rūpa + arūpa + bhava〕於色界、無色界，**chando**〔名詞·主格〕欲求，**rāgo**〔名詞·主格〕貪著，**jhānanikanti**〔複合詞·主格，= jhāna + nikanti〕對禪的喜好，**ca**〔連詞〕及——  
-*有暴流：對色界、無色界的欲求與貪著，及對禪的喜好執著。*
+**Bhavogho'ti**〔复合词 + 引语词〕有暴流——**rūpārūpabhavesu**〔复合词·处格复数，= rūpa + arūpa + bhava〕于色界、无色界，**chando**〔名词·主格〕欲求，**rāgo**〔名词·主格〕贪著，**jhānanikanti**〔复合词·主格，= jhāna + nikanti〕对禅的喜好，**ca**〔连词〕及——  
+*有暴流：对色界、无色界的欲求与贪著，及对禅的喜好执著。*
 
-**Diṭṭhogho'ti**〔複合詞 + 引語詞〕見暴流——**dvāsaṭṭhi**〔數詞〕六十二，**diṭṭhiyo**〔名詞·主格複數，√dis〕邪見——  
-*見暴流：六十二種邪見。*
+**Diṭṭhogho'ti**〔复合词 + 引语词〕见暴流——**dvāsaṭṭhi**〔数词〕六十二，**diṭṭhiyo**〔名词·主格复数，√dis〕邪见——  
+*见暴流：六十二种邪见。*
 
-**Avijjogho'ti**〔複合詞 + 引語詞〕無明暴流——**catūsu**〔數詞·處格〕於四，**saccesu**〔名詞·處格複數，√sac〕聖諦，**aññāṇaṃ**〔名詞·主格，a + √ñā〕無知——  
-*無明暴流：對四聖諦的無知。*
+**Avijjogho'ti**〔复合词 + 引语词〕无明暴流——**catūsu**〔数词·处格〕于四，**saccesu**〔名词·处格复数，√sac〕圣谛，**aññāṇaṃ**〔名词·主格，a + √ñā〕无知——  
+*无明暴流：对四圣谛的无知。*
 
-**〔漢譯〕**  
-「暴流有四種：欲暴流、有暴流、見暴流、無明暴流。
+**〔汉译〕**  
+「暴流有四种：欲暴流、有暴流、见暴流、无明暴流。
 
-- 欲暴流：對五欲的欲求與貪著。
-- 有暴流：對色界、無色界的欲求與貪著，及對禪的喜好執著。
-- 見暴流：六十二種邪見。
-- 無明暴流：對四聖諦的無知。」
+- 欲暴流：对五欲的欲求与贪著。
+- 有暴流：对色界、无色界的欲求与贪著，及对禅的喜好执著。
+- 见暴流：六十二种邪见。
+- 无明暴流：对四圣谛的无知。」
 
 ---
 
-### 3.4 釋偈頌「brāhmaṇaṃ parinibbutaṃ」
+### 3.4 释偈颂「brāhmaṇaṃ parinibbutaṃ」
 
 **〔SA 原文〕**
 
@@ -199,99 +199,99 @@ tags: [相應部, 諸天相應, 有偈篇, 巴利原文, 義注, 復注, 逐詞�
 > *"Parinibbutaṃ brāhmaṇan"ti – bāhitapāpattā brāhmaṇo; parinibbutaṃ nibbānaṃ pattoti attho.*  
 > *"Loke visattikan"ti – taṇhā loke visaṭā visattā.*
 
-**〔逐詞〕**
+**〔逐词〕**
 
-**"Cirassaṃ vata passāmī"**〔引偈首句〕，**ti**〔引語詞〕——**dīghassa**〔形容詞·屬格〕長久的，**addhuno**〔名詞·屬格〕時間，**pacchā**〔副詞〕之後，**idāni**〔副詞〕現在，**passāmi**〔動詞·現在式·一單〕我看見，**ti**〔引語詞〕——**attho**〔名詞·主格〕義——  
-*「終於我確實看見」——久遠之後，現在才看見，此義。*
+**"Cirassaṃ vata passāmī"**〔引偈首句〕，**ti**〔引语词〕——**dīghassa**〔形容词·属格〕长久的，**addhuno**〔名词·属格〕时间，**pacchā**〔副词〕之后，**idāni**〔副词〕现在，**passāmi**〔动词·现在式·一单〕我看见，**ti**〔引语词〕——**attho**〔名词·主格〕义——  
+*「终于我确实看见」——久远之后，现在才看见，此义。*
 
-**"Parinibbutaṃ brāhmaṇan"**〔引偈〕，**ti**〔引語詞〕——**bāhitapāpattā**〔複合詞·具格，= bāhita + pāpa + ttā〕因已去除惡，**brāhmaṇo**〔名詞·主格〕婆羅門；**parinibbutaṃ**〔PPP·業格〕已般涅槃的，**nibbānaṃ**〔名詞·業格〕涅槃，**patto**〔PPP·主格，pa + √āp〕已達，**ti**〔引語詞〕——**attho**〔名詞·主格〕義——  
-*「般涅槃的婆羅門」——因已去除惡（bāhitapāpa）而稱婆羅門；已達般涅槃，即已達涅槃，此義。*
+**"Parinibbutaṃ brāhmaṇan"**〔引偈〕，**ti**〔引语词〕——**bāhitapāpattā**〔复合词·具格，= bāhita + pāpa + ttā〕因已去除恶，**brāhmaṇo**〔名词·主格〕婆罗门；**parinibbutaṃ**〔PPP·业格〕已般涅槃的，**nibbānaṃ**〔名词·业格〕涅槃，**patto**〔PPP·主格，pa + √āp〕已达，**ti**〔引语词〕——**attho**〔名词·主格〕义——  
+*「般涅槃的婆罗门」——因已去除恶（bāhitapāpa）而称婆罗门；已达般涅槃，即已达涅槃，此义。*
 
-**"Loke visattikan"**〔引偈〕，**ti**〔引語詞〕——**taṇhā**〔名詞·主格〕渴愛，**loke**〔名詞·處格〕世間，**visaṭā**〔PPP·主格，vi + √saṭ〕廣布，**visattā**〔PPP·主格，vi + √sañj〕黏著——  
-*「世間中的執著」——渴愛（taṇhā）廣布、黏著於世間。*
+**"Loke visattikan"**〔引偈〕，**ti**〔引语词〕——**taṇhā**〔名词·主格〕渴爱，**loke**〔名词·处格〕世间，**visaṭā**〔PPP·主格，vi + √saṭ〕广布，**visattā**〔PPP·主格，vi + √sañj〕黏著——  
+*「世间中的执著」——渴爱（taṇhā）广布、黏著于世间。*
 
-**〔漢譯〕**  
-「『終於我確實看見』——久遠之後，現在才看見，此義。  
-『般涅槃的婆羅門』——因已去除惡（*bāhitapāpa*）而稱婆羅門；已達般涅槃，即已達涅槃，此義。  
-『世間中的執著』——渴愛（*taṇhā*）廣布、黏著於世間。」
+**〔汉译〕**  
+「『终于我确实看见』——久远之后，现在才看见，此义。  
+『般涅槃的婆罗门』——因已去除恶（*bāhitapāpa*）而称婆罗门；已达般涅槃，即已达涅槃，此义。  
+『世间中的执著』——渴爱（*taṇhā*）广布、黏著于世间。」
 
 ---
 
-### 3.5 天神身份與得果
+### 3.5 天神身份与得果
 
 **〔SA 原文〕**
 
 > *Sā ca devatā Candano nāma devaputto.*  
 > *Sā satthārā anumodanamattena sotāpattiphalassa pattā ahosi.*
 
-**〔逐詞〕**
+**〔逐词〕**
 
-**Sā**〔代詞·主格〕那位，**ca**〔連詞〕且，**devatā**〔名詞·主格〕天神，**Candano**〔名詞·主格〕栴檀，**nāma**〔副詞〕名為，**devaputto**〔複合詞·主格，= deva + putta〕天子——  
-*那位天神名為栴檀天子（Candana devaputta）。*
+**Sā**〔代词·主格〕那位，**ca**〔连词〕且，**devatā**〔名词·主格〕天神，**Candano**〔名词·主格〕栴檀，**nāma**〔副词〕名为，**devaputto**〔复合词·主格，= deva + putta〕天子——  
+*那位天神名为栴檀天子（Candana devaputta）。*
 
-**Sā**〔代詞·主格〕她（那位天神），**satthārā**〔名詞·具格〕以導師，**anumodanamattena**〔複合詞·具格，= anumodana + matta〕以一聲認可之量，**sotāpattiphalassa**〔複合詞·屬格，= sotāpatti + phala〕入流果，**pattā**〔PPP·主格·陰，pa + √āp〕獲得，**ahosi**〔動詞·不定過去式·三單〕是——  
-*她以世尊一聲認可（samanuñña），當即獲得入流果（sotāpattiphala）。*
+**Sā**〔代词·主格〕她（那位天神），**satthārā**〔名词·具格〕以导师，**anumodanamattena**〔复合词·具格，= anumodana + matta〕以一声认可之量，**sotāpattiphalassa**〔复合词·属格，= sotāpatti + phala〕入流果，**pattā**〔PPP·主格·阴，pa + √āp〕获得，**ahosi**〔动词·不定过去式·三单〕是——  
+*她以世尊一声认可（samanuñña），当即获得入流果（sotāpattiphala）。*
 
-**〔漢譯〕**  
-「那位天神名為栴檀天子（Candana devaputta）。  
-他以世尊一聲認可（*samanuñña*），當即獲得入流果（*sotāpattiphala*）。」
+**〔汉译〕**  
+「那位天神名为栴檀天子（Candana devaputta）。  
+他以世尊一声认可（*samanuñña*），当即获得入流果（*sotāpattiphala*）。」
 
 ---
 
-## 四、復注逐詞解析（Sāratthappakāsinī-ṭīkā）
+## 四、复注逐词解析（Sāratthappakāsinī-ṭīkā）
 
-*法護論師（Dhammapāla Thera）造，六世紀。  
+*法护论师（Dhammapāla Thera）造，六世纪。  
 原典：SAPṬ（Be）1:46。*
 
 ---
 
-### 4.1 釋「appatiṭṭha」之深義
+### 4.1 释「appatiṭṭha」之深义
 
 **〔SAPṬ 原文〕**
 
 > *"Appatiṭṭhahanto"ti kiles'ādīnaṃ vasena asantiṭṭhanto, asaṃsīdantoti attho.*
 
-**〔逐詞〕**
+**〔逐词〕**
 
-**"Appatiṭṭhahanto"**〔現在分詞·主格，a + pati + √ṭhā〕不停住，**ti**〔引語詞〕——**kiles'ādīnaṃ**〔複合詞·屬格，= kilesa + ādi〕煩惱等的，**vasena**〔名詞·具格，vasa〕以……之力，**asantiṭṭhanto**〔現在分詞·主格，a + saṃ + √ṭhā〕不停駐，**asaṃsīdanto**〔現在分詞·主格，a + saṃ + √sad〕不沈沒，**ti**〔引語詞〕——**attho**〔名詞·主格〕義——  
-*「不停住」——指不因煩惱等而停駐；「不沈沒」，此義。*
+**"Appatiṭṭhahanto"**〔现在分词·主格，a + pati + √ṭhā〕不停住，**ti**〔引语词〕——**kiles'ādīnaṃ**〔复合词·属格，= kilesa + ādi〕烦恼等的，**vasena**〔名词·具格，vasa〕以……之力，**asantiṭṭhanto**〔现在分词·主格，a + saṃ + √ṭhā〕不停驻，**asaṃsīdanto**〔现在分词·主格，a + saṃ + √sad〕不沉没，**ti**〔引语词〕——**attho**〔名词·主格〕义——  
+*「不停住」——指不因烦恼等而停驻；「不沉没」，此义。*
 
-**〔漢譯〕**  
-「『不停住』——指不因煩惱等而停駐；『不沈沒』，此義。」
+**〔汉译〕**  
+「『不停住』——指不因烦恼等而停驻；『不沉没』，此义。」
 
-**〔說明〕**  
-義注說的「不停住於等至之樂」是就修行面而言；  
-復注補充更根本的意涵：「*appatiṭṭha*」的核心是心不被煩惱牽絆而沈沒——  
-這正是涅槃的特質：**不生起（*appavatta*）、無所緣（*anārammaṇa*）**。
-
----
-
-### 4.2 對「santiṭṭhāmi → saṃsīdāmi」的詮釋
-
-**〔SAPṬ 說明〕**
-
-> 「停住」（*santiṭṭhāmi*）與「沈沒」（*saṃsīdāmi*）的因果關係：  
-> 停住於等至之樂，即是執取（*upādāna*）；執取是輪迴的燃料，故停住必致沈沒。  
-> 用力（*āyūhāmi*）激起渴愛，渴愛即是被流水沖走的力量，故用力必致漂走。
+**〔说明〕**  
+义注说的「不停住于等至之乐」是就修行面而言；  
+复注补充更根本的意涵：「*appatiṭṭha*」的核心是心不被烦恼牵绊而沉没——  
+这正是涅槃的特质：**不生起（*appavatta*）、无所缘（*anārammaṇa*）**。
 
 ---
 
-## 附：本經主題圖
+### 4.2 对「santiṭṭhāmi → saṃsīdāmi」的诠释
+
+**〔SAPṬ 说明〕**
+
+> 「停住」（*santiṭṭhāmi*）与「沉没」（*saṃsīdāmi*）的因果关系：  
+> 停住于等至之乐，即是执取（*upādāna*）；执取是轮回的燃料，故停住必致沉没。  
+> 用力（*āyūhāmi*）激起渴爱，渴爱即是被流水冲走的力量，故用力必致漂走。
+
+---
+
+## 附：本经主题图
 
 ```
 四暴流（ogha）
-    ↓ 淹沒眾生
+    ↓ 淹没众生
 
-停住（santiṭṭhāmi）→ 沈沒（saṃsīdāmi）   ← 執取等至之樂
-用力（āyūhāmi）  → 被沖走（nibbuyhāmi）  ← 激起有渴愛
+停住（santiṭṭhāmi）→ 沉没（saṃsīdāmi）   ← 执取等至之乐
+用力（āyūhāmi）  → 被冲走（nibbuyhāmi）  ← 激起有渴爱
 
     ↓ 中道
 
-無住立（appatiṭṭhaṃ）∧ 無用力（anāyūhaṃ）
+无住立（appatiṭṭhaṃ）∧ 无用力（anāyūhaṃ）
     ↓
-渡過暴流（oghataraṇa）→ 般涅槃（parinibbutaṃ）
+渡过暴流（oghataraṇa）→ 般涅槃（parinibbutaṃ）
 ```
 
 ---
 
-*← [[SN01-诸天相应/index|回諸天相應目錄]]*
+*← [[SN01-诸天相应/index|回诸天相应目录]]*
