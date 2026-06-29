@@ -3,8 +3,6 @@ title: 相应部（Saṃyuttanikāya）
 tags: [相应部]
 ---
 
-# 相应部（Saṃyuttanikāya）
-
 共 56 相应，按五篇分组。
 
 ---

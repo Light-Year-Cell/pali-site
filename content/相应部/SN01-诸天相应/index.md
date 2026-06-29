@@ -3,8 +3,6 @@ title: SN 1 诸天相应（Devatāsaṃyutta）
 tags: [相应部, 有偈篇, 诸天相应]
 ---
 
-# SN 1 诸天相应（Devatāsaṃyutta）
-
 **有偈篇**（Sagāthāvagga）第一相应，共 81 经。
 
 天神夜来诣世尊，以偈问答，涉及修行、解脱、智慧等主题。
