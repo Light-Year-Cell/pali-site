@@ -8,6 +8,12 @@ title: 巴利語學習站
 
 ## 收錄經文
 
+### 相應部（Saṃyuttanikāya）
+
+- [[相应部/index|相應部總目]] — 56 相應，2,904 經
+  - [[相应部/SN01-诸天相应/index|SN 1 諸天相應]]（Devatāsaṃyutta）
+    - 蘆葦品（SN 1.1–1.10）✓ 含巴利原文、逐詞、義注、復注
+
 ### 小部（Khuddakanikāya）
 - [[大吉祥經]] — Maṅgalasutta
 
