@@ -18,19 +18,20 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 **引言**
 
-> Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
-
-**Evaṃ** 副词 · 如是  
-**me** 代词·属格 · 我  
-**sutaṃ** PPP·主格 · 所闻  
-**ekaṃ** 数词·业格 · 一  
-**samayaṃ** 名词·业格 · 时  
-**bhagavā** 名词·主格 · 世尊  
-**sāvatthiyaṃ** 地名·处格 · 于舍卫城  
-**viharati** 动词·现在式·三单 · 住  
-**jetavane** 地名·处格 · 祇树园  
-**anāthapiṇḍikassa** 名词·属格 · 给孤独长者的  
-**ārāme** 名词·处格 · 园  
+<div class="il">
+<span class="il-w"><span class="il-p">Evaṃ</span><span class="il-g">如是</span></span>
+<span class="il-w"><span class="il-p">me</span><span class="il-g">我</span></span>
+<span class="il-w"><span class="il-p">sutaṃ</span><span class="il-g">所闻</span></span>
+<span class="il-w"><span class="il-p">–</span><span class="il-g"></span></span>
+<span class="il-w"><span class="il-p">ekaṃ</span><span class="il-g">一</span></span>
+<span class="il-w"><span class="il-p">samayaṃ</span><span class="il-g">时</span></span>
+<span class="il-w"><span class="il-p">bhagavā</span><span class="il-g">世尊</span></span>
+<span class="il-w"><span class="il-p">sāvatthiyaṃ</span><span class="il-g">于舍卫城</span></span>
+<span class="il-w"><span class="il-p">viharati</span><span class="il-g">住</span></span>
+<span class="il-w"><span class="il-p">jetavane</span><span class="il-g">祇树园</span></span>
+<span class="il-w"><span class="il-p">anāthapiṇḍikassa</span><span class="il-g">给孤独长者的</span></span>
+<span class="il-w"><span class="il-p">ārāme</span><span class="il-g">园</span></span>
+</div>
 
 *如是，我闻。一时，世尊住于舍卫城给孤独长者的祇园中。*
 
@@ -38,38 +39,38 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 **天神来访**
 
-> Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.
-
-**Atha** 副词 · 然后  
-**kho** 强调小词 · 确实  
-**aññatarā** 代词·主格 · 某位  
-**devatā** 名词·主格 · 天神  
-**abhikkantāya** 形容词·处格 · 深夜（的）  
-**rattiyā** 名词·处格 · 夜  
-**abhikkantavaṇṇā** 复合词·主格（abhikkanta+vaṇṇa） · 极美光色的  
-**kevalakappaṃ** 副词 · 几乎整个  
-**jetavanaṃ** 地名·业格 · 祇园  
-**obhāsetvā** 动词·绝对分词（ava+√bhās） · 照亮后  
-**yena** 关系代词·具格 · 往…之处  
-**bhagavā** 名词·主格 · 世尊（所在）  
-**tena**·**upasaṅkami** 指示代词·具格＋动词·不定过去式·三单（upa+saṃ+√gam） · 往那里靠近  
-**upasaṅkamitvā** 动词·绝对分词 · 靠近后  
-**bhagavantaṃ** 名词·业格 · 世尊  
-**abhivādetvā** 动词·绝对分词（abhi+√vad） · 顶礼后  
-**ekamantaṃ** 副词 · 一旁  
-**aṭṭhāsi** 动词·不定过去式·三单（√ṭhā） · 站立  
+<div class="il">
+<span class="il-w"><span class="il-p">Atha</span><span class="il-g">然后</span></span>
+<span class="il-w"><span class="il-p">kho</span><span class="il-g">确实</span></span>
+<span class="il-w"><span class="il-p">aññatarā</span><span class="il-g">某位</span></span>
+<span class="il-w"><span class="il-p">devatā</span><span class="il-g">天神</span></span>
+<span class="il-w"><span class="il-p">abhikkantāya</span><span class="il-g">深夜</span></span>
+<span class="il-w"><span class="il-p">rattiyā</span><span class="il-g">夜</span></span>
+<span class="il-w"><span class="il-p">abhikkantavaṇṇā</span><span class="il-g">极美光色的</span></span>
+<span class="il-w"><span class="il-p">kevalakappaṃ</span><span class="il-g">几乎整个</span></span>
+<span class="il-w"><span class="il-p">jetavanaṃ</span><span class="il-g">祇园</span></span>
+<span class="il-w"><span class="il-p">obhāsetvā</span><span class="il-g">照亮后</span></span>
+<span class="il-w"><span class="il-p">yena</span><span class="il-g">往…之处</span></span>
+<span class="il-w"><span class="il-p">bhagavā</span><span class="il-g">世尊</span></span>
+<span class="il-w"><span class="il-p">tena·upasaṅkami</span><span class="il-g">往那里靠近</span></span>
+<span class="il-w"><span class="il-p">upasaṅkamitvā</span><span class="il-g">靠近后</span></span>
+<span class="il-w"><span class="il-p">bhagavantaṃ</span><span class="il-g">世尊</span></span>
+<span class="il-w"><span class="il-p">abhivādetvā</span><span class="il-g">顶礼后</span></span>
+<span class="il-w"><span class="il-p">ekamantaṃ</span><span class="il-g">一旁</span></span>
+<span class="il-w"><span class="il-p">aṭṭhāsi</span><span class="il-g">站立</span></span>
+</div>
 
 *然后，某位天神于深夜，以极美光色几乎照亮整个祇园，靠近世尊所在之处；靠近后，顶礼世尊，站在一旁。*
 
-> Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca –
-
-**Ekamantaṃ** 副词 · 一旁  
-**ṭhitā** PPP·主格（√ṭhā） · 站立的  
-**kho** 强调小词 · 确实  
-**sā** 代词·主格 · 那位  
-**devatā** 名词·主格 · 天神  
-**bhagavantaṃ** 名词·业格 · 世尊  
-**etadavoca** 代词·业格＋动词·不定过去式（etaṃ+avoca，√vac） · 如此说  
+<div class="il">
+<span class="il-w"><span class="il-p">Ekamantaṃ</span><span class="il-g">一旁</span></span>
+<span class="il-w"><span class="il-p">ṭhitā</span><span class="il-g">站立的</span></span>
+<span class="il-w"><span class="il-p">kho</span><span class="il-g">确实</span></span>
+<span class="il-w"><span class="il-p">sā</span><span class="il-g">那位</span></span>
+<span class="il-w"><span class="il-p">devatā</span><span class="il-g">天神</span></span>
+<span class="il-w"><span class="il-p">bhagavantaṃ</span><span class="il-g">世尊</span></span>
+<span class="il-w"><span class="il-p">etadavoca</span><span class="il-g">如此说</span></span>
+</div>
 
 *站在一旁的那位天神对世尊如此说：*
 
@@ -77,50 +78,57 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 **对话**
 
-> "Kathaṃ nu tvaṃ, mārisa, oghamatarī"ti?
-
-**Kathaṃ** 疑问副词 · 如何  
-**nu** 疑问小词 · 呢  
-**tvaṃ** 代词·主格 · 你  
-**mārisa** 呼格 · 尊者  
-**ogham**·**atarī** 名词·业格＋动词·不定过去式·二单（√tar） · 暴流·渡过  
+<div class="il">
+<span class="il-w"><span class="il-p">Kathaṃ</span><span class="il-g">如何</span></span>
+<span class="il-w"><span class="il-p">nu</span><span class="il-g">呢</span></span>
+<span class="il-w"><span class="il-p">tvaṃ</span><span class="il-g">你</span></span>
+<span class="il-w"><span class="il-p">mārisa</span><span class="il-g">尊者</span></span>
+<span class="il-w"><span class="il-p">ogham·atarī</span><span class="il-g">渡过暴流</span></span>
+</div>
 
 *「尊者！你是如何渡过暴流的？」*
 
-> "Appatiṭṭhaṃ khvāhaṃ, āvuso, anāyūhaṃ oghamatarin"ti.
-
-**Appatiṭṭhaṃ** 形容词·业格（a+patiṭṭha） · 无住立  
-**khvāhaṃ** kho+ahaṃ，强调小词＋代词·主格 · 我确实  
-**āvuso** 呼格 · 朋友  
-**anāyūhaṃ** 形容词·业格（a+āyūha） · 无用力  
-**ogham**·**atarin** 名词·业格＋动词·不定过去式·一单（√tar） · 暴流·渡过  
+<div class="il">
+<span class="il-w"><span class="il-p">Appatiṭṭhaṃ</span><span class="il-g">无住立</span></span>
+<span class="il-w"><span class="il-p">khvāhaṃ</span><span class="il-g">我确实</span></span>
+<span class="il-w"><span class="il-p">āvuso</span><span class="il-g">朋友</span></span>
+<span class="il-w"><span class="il-p">anāyūhaṃ</span><span class="il-g">无用力</span></span>
+<span class="il-w"><span class="il-p">ogham·atarin</span><span class="il-g">渡过暴流</span></span>
+</div>
 
 *「朋友！我确实无住立、无用力地渡过了暴流。」*
 
-> "Yathā kathaṃ pana tvaṃ, mārisa, appatiṭṭhaṃ anāyūhaṃ oghamatarī"ti?
-
-**Yathā** 副词 · 如何  
-**kathaṃ** 疑问副词 · 怎样  
-**pana** 小词 · 那么  
-**tvaṃ** 代词·主格 · 你  
-**mārisa** 呼格 · 尊者  
-**appatiṭṭhaṃ** 形容词·业格 · 无住立  
-**anāyūhaṃ** 形容词·业格 · 无用力  
-**ogham**·**atarī** 名词·业格＋动词·不定过去式·二单 · 暴流·渡过  
+<div class="il">
+<span class="il-w"><span class="il-p">Yathā</span><span class="il-g">如何</span></span>
+<span class="il-w"><span class="il-p">kathaṃ</span><span class="il-g">怎样</span></span>
+<span class="il-w"><span class="il-p">pana</span><span class="il-g">那么</span></span>
+<span class="il-w"><span class="il-p">tvaṃ</span><span class="il-g">你</span></span>
+<span class="il-w"><span class="il-p">mārisa</span><span class="il-g">尊者</span></span>
+<span class="il-w"><span class="il-p">appatiṭṭhaṃ</span><span class="il-g">无住立</span></span>
+<span class="il-w"><span class="il-p">anāyūhaṃ</span><span class="il-g">无用力</span></span>
+<span class="il-w"><span class="il-p">ogham·atarī</span><span class="il-g">渡过暴流</span></span>
+</div>
 
 *「尊者！那你是如何无住立、无用力地渡过暴流的？」*
 
-> "Yadākhvāhaṃ, āvuso, santiṭṭhāmi tadāssu saṃsīdāmi; yadākhvāhaṃ, āvuso, āyūhāmi tadāssu nibbuyhāmi. Evaṃ khvāhaṃ, āvuso, appatiṭṭhaṃ anāyūhaṃ oghamatarin"ti.
-
-**Yadākhvāhaṃ** yadā+kho+ahaṃ，副词＋强调词＋代词·主格 · 当我确实  
-**āvuso** 呼格 · 朋友  
-**santiṭṭhāmi** 动词·现在式·一单（saṃ+√ṭhā） · 停住  
-**tadāssu** tadā+su，副词＋强调小词 · 那时确实  
-**saṃsīdāmi** 动词·现在式·一单（saṃ+√sad） · 沉没  
-**āyūhāmi** 动词·现在式·一单（ā+√yuh） · 用力  
-**nibbuyhāmi** 动词·现在式·一单·被动（ni+√vah） · 被飘走  
-**Evaṃ** 副词 · 这样  
-**khvāhaṃ** kho+ahaṃ · 我确实  
+<div class="il">
+<span class="il-w"><span class="il-p">Yadākhvāhaṃ</span><span class="il-g">当我确实</span></span>
+<span class="il-w"><span class="il-p">āvuso</span><span class="il-g">朋友</span></span>
+<span class="il-w"><span class="il-p">santiṭṭhāmi</span><span class="il-g">停住</span></span>
+<span class="il-w"><span class="il-p">tadāssu</span><span class="il-g">那时确实</span></span>
+<span class="il-w"><span class="il-p">saṃsīdāmi</span><span class="il-g">沉没</span></span>
+<span class="il-w"><span class="il-p">yadākhvāhaṃ</span><span class="il-g">当我确实</span></span>
+<span class="il-w"><span class="il-p">āvuso</span><span class="il-g">朋友</span></span>
+<span class="il-w"><span class="il-p">āyūhāmi</span><span class="il-g">用力</span></span>
+<span class="il-w"><span class="il-p">tadāssu</span><span class="il-g">那时确实</span></span>
+<span class="il-w"><span class="il-p">nibbuyhāmi</span><span class="il-g">被飘走</span></span>
+<span class="il-w"><span class="il-p">Evaṃ</span><span class="il-g">这样</span></span>
+<span class="il-w"><span class="il-p">khvāhaṃ</span><span class="il-g">我确实</span></span>
+<span class="il-w"><span class="il-p">āvuso</span><span class="il-g">朋友</span></span>
+<span class="il-w"><span class="il-p">appatiṭṭhaṃ</span><span class="il-g">无住立</span></span>
+<span class="il-w"><span class="il-p">anāyūhaṃ</span><span class="il-g">无用力</span></span>
+<span class="il-w"><span class="il-p">ogham·atarin</span><span class="il-g">渡过暴流</span></span>
+</div>
 
 *「朋友！当我停住时，那时我就沉没；当我用力时，那时我就被飘走。朋友！我就是这样无住立、无用力地渡过了暴流。」*
 
@@ -128,19 +136,18 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 **偈颂**
 
-> "Cirassaṃ vata passāmi, brāhmaṇaṃ parinibbutaṃ;  
-> Appatiṭṭhaṃ anāyūhaṃ, tiṇṇaṃ loke visattikan"ti.
-
-**Cirassaṃ** 副词 · 久远之后  
-**vata** 感叹词 · 确实啊  
-**passāmi** 动词·现在式·一单（√dis） · 我看见  
-**brāhmaṇaṃ** 名词·业格 · 婆罗门  
-**parinibbutaṃ** PPP·业格（pari+ni+√vā） · 已般涅槃的  
-**Appatiṭṭhaṃ** 形容词·业格 · 无住立  
-**anāyūhaṃ** 形容词·业格 · 无用力  
-**tiṇṇaṃ** PPP·业格（√tar） · 已渡过的  
-**loke** 名词·处格 · 世间中  
-**visattikan** 形容词·业格（vi+√sañj） · 对世间的执着  
+<div class="il">
+<span class="il-w"><span class="il-p">Cirassaṃ</span><span class="il-g">久远之后</span></span>
+<span class="il-w"><span class="il-p">vata</span><span class="il-g">确实啊</span></span>
+<span class="il-w"><span class="il-p">passāmi</span><span class="il-g">我看见</span></span>
+<span class="il-w"><span class="il-p">brāhmaṇaṃ</span><span class="il-g">婆罗门</span></span>
+<span class="il-w"><span class="il-p">parinibbutaṃ</span><span class="il-g">已般涅槃的</span></span>
+<span class="il-w"><span class="il-p">Appatiṭṭhaṃ</span><span class="il-g">无住立</span></span>
+<span class="il-w"><span class="il-p">anāyūhaṃ</span><span class="il-g">无用力</span></span>
+<span class="il-w"><span class="il-p">tiṇṇaṃ</span><span class="il-g">已渡过的</span></span>
+<span class="il-w"><span class="il-p">loke</span><span class="il-g">世间中</span></span>
+<span class="il-w"><span class="il-p">visattikan</span><span class="il-g">执着</span></span>
+</div>
 
 *「久远之后，我终于确实看见了已般涅槃的婆罗门；无住立、无用力，已渡过世间中的执着。」*
 
@@ -148,19 +155,21 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 **结语**
 
-> Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā "samanuñño me satthā"ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyīti.
-
-**Idamavoca** idaṃ+avoca，代词·业格＋动词·不定过去式（√vac） · 说了此话  
-**sā** 代词·主格 · 那位  
-**devatā** 名词·主格 · 天神  
-**Samanuñño** 形容词·主格（saṃ+anuñña） · 满意的  
-**satthā** 名词·主格 · 导师  
-**ahosi** 动词·不定过去式·三单（√as） · 是  
-**samanuñño me satthā** （那位天神心想）导师对我满意了  
-**abhivādetvā** 动词·绝对分词 · 顶礼后  
-**padakkhiṇaṃ katvā** 副词＋动词·绝对分词（√kar） · 右绕后  
-**tattheva** tattha+eva · 就在那里  
-**antaradhāyī** 动词·不定过去式·三单（antara+√dhā） · 消失  
+<div class="il">
+<span class="il-w"><span class="il-p">Idamavoca</span><span class="il-g">说了此话</span></span>
+<span class="il-w"><span class="il-p">sā</span><span class="il-g">那位</span></span>
+<span class="il-w"><span class="il-p">devatā</span><span class="il-g">天神</span></span>
+<span class="il-w"><span class="il-p">Samanuñño</span><span class="il-g">满意的</span></span>
+<span class="il-w"><span class="il-p">satthā</span><span class="il-g">导师</span></span>
+<span class="il-w"><span class="il-p">ahosi</span><span class="il-g">是</span></span>
+<span class="il-w"><span class="il-p">sā</span><span class="il-g">那位</span></span>
+<span class="il-w"><span class="il-p">devatā</span><span class="il-g">天神</span></span>
+<span class="il-w"><span class="il-p">bhagavantaṃ</span><span class="il-g">世尊</span></span>
+<span class="il-w"><span class="il-p">abhivādetvā</span><span class="il-g">顶礼后</span></span>
+<span class="il-w"><span class="il-p">padakkhiṇaṃ·katvā</span><span class="il-g">右绕后</span></span>
+<span class="il-w"><span class="il-p">tattheva</span><span class="il-g">就在那里</span></span>
+<span class="il-w"><span class="il-p">antaradhāyī</span><span class="il-g">消失</span></span>
+</div>
 
 *然后，那位天神想着「导师对我满意了」，顶礼世尊，右绕，就在那里消失了。*
 
@@ -182,12 +191,14 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 > *"Mārisā"ti pesalo bhaddako garū ālapanasaddo.*
 
-**"Mārisā"** 名词·呼格 · 尊者  
-**ti** 引语词  
-**pesalo** 形容词·主格 · 尊贵的  
-**bhaddako** 形容词·主格 · 美好的  
-**garū** 形容词·主格 · 敬重的  
-**ālapanasaddo** 复合词·主格（ālapana+sadda） · 称呼语  
+<div class="il">
+<span class="il-w"><span class="il-p">Mārisā</span><span class="il-g">尊者</span></span>
+<span class="il-w"><span class="il-p">ti</span><span class="il-g">（引语词）</span></span>
+<span class="il-w"><span class="il-p">pesalo</span><span class="il-g">尊贵的</span></span>
+<span class="il-w"><span class="il-p">bhaddako</span><span class="il-g">美好的</span></span>
+<span class="il-w"><span class="il-p">garū</span><span class="il-g">敬重的</span></span>
+<span class="il-w"><span class="il-p">ālapanasaddo</span><span class="il-g">称呼语</span></span>
+</div>
 
 「『mārisa』是尊贵、美好、敬重的称呼语。」
 
@@ -197,18 +208,22 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 > *"Appatiṭṭhan"ti samāpattisukhe appatiṭṭhahanto.*
 
-**"Appatiṭṭhan"** 形容词·业格 · 无住立  
-**ti** 引语词  
-**samāpattisukhe** 复合词·处格（samāpatti+sukha） · 等至之乐中  
-**appatiṭṭhahanto** 现在分词·主格（a+pati+√ṭhā） · 不停住  
+<div class="il">
+<span class="il-w"><span class="il-p">Appatiṭṭhan</span><span class="il-g">无住立</span></span>
+<span class="il-w"><span class="il-p">ti</span><span class="il-g">（引语词）</span></span>
+<span class="il-w"><span class="il-p">samāpattisukhe</span><span class="il-g">等至之乐中</span></span>
+<span class="il-w"><span class="il-p">appatiṭṭhahanto</span><span class="il-g">不停住</span></span>
+</div>
 
 > *"Anāyūhan"ti bhavataṇhāya āyūhanaṃ akaronto.*
 
-**"Anāyūhan"** 形容词·业格 · 无用力  
-**ti** 引语词  
-**bhavataṇhāya** 复合词·具格（bhava+taṇhā） · 以对有的渴爱  
-**āyūhanaṃ** 动名词·业格（ā+√yuh） · 用力、挣扎  
-**akaronto** 现在分词·主格（a+√kar） · 不作  
+<div class="il">
+<span class="il-w"><span class="il-p">Anāyūhan</span><span class="il-g">无用力</span></span>
+<span class="il-w"><span class="il-p">ti</span><span class="il-g">（引语词）</span></span>
+<span class="il-w"><span class="il-p">bhavataṇhāya</span><span class="il-g">以对有的渴爱</span></span>
+<span class="il-w"><span class="il-p">āyūhanaṃ</span><span class="il-g">用力挣扎</span></span>
+<span class="il-w"><span class="il-p">akaronto</span><span class="il-g">不作</span></span>
+</div>
 
 「『无住立』——不停住于等至（*samāpatti*）之乐中。  
 『无用力』——不激起对有（*bhava*）的渴爱之挣扎。」
@@ -221,39 +236,50 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 > *Cattāro oghā – kāmogho, bhavogho, diṭṭhogho, avijjogho.*
 
-**Cattāro** 数词·主格 · 四  
-**oghā** 名词·主格复数 · 暴流  
-**kāmogho** 复合词·主格（kāma+ogha） · 欲暴流  
-**bhavogho** 复合词·主格（bhava+ogha） · 有暴流  
-**diṭṭhogho** 复合词·主格（diṭṭhi+ogha） · 见暴流  
-**avijjogho** 复合词·主格（avijjā+ogha） · 无明暴流  
+<div class="il">
+<span class="il-w"><span class="il-p">Cattāro</span><span class="il-g">四</span></span>
+<span class="il-w"><span class="il-p">oghā</span><span class="il-g">暴流</span></span>
+<span class="il-w"><span class="il-p">kāmogho</span><span class="il-g">欲暴流</span></span>
+<span class="il-w"><span class="il-p">bhavogho</span><span class="il-g">有暴流</span></span>
+<span class="il-w"><span class="il-p">diṭṭhogho</span><span class="il-g">见暴流</span></span>
+<span class="il-w"><span class="il-p">avijjogho</span><span class="il-g">无明暴流</span></span>
+</div>
 
 > *Kāmogho'ti pañcakāmaguṇesu chando rāgo.*
 
-**Kāmogho'ti** 复合词＋引语词 · 欲暴流——  
-**pañcakāmaguṇesu** 复合词·处格复数（pañca+kāma+guṇa） · 于五欲  
-**chando** 名词·主格（√chand） · 欲求  
-**rāgo** 名词·主格（√rañj） · 贪着  
+<div class="il">
+<span class="il-w"><span class="il-p">Kāmogho'ti</span><span class="il-g">欲暴流——</span></span>
+<span class="il-w"><span class="il-p">pañcakāmaguṇesu</span><span class="il-g">于五欲</span></span>
+<span class="il-w"><span class="il-p">chando</span><span class="il-g">欲求</span></span>
+<span class="il-w"><span class="il-p">rāgo</span><span class="il-g">贪着</span></span>
+</div>
 
 > *Bhavogho'ti rūpārūpabhavesu chando rāgo jhānanikanti ca.*
 
-**Bhavogho'ti** 复合词＋引语词 · 有暴流——  
-**rūpārūpabhavesu** 复合词·处格复数（rūpa+arūpa+bhava） · 于色界、无色界  
-**jhānanikanti** 复合词·主格（jhāna+nikanti） · 对禅的喜好  
-**ca** 连词 · 及  
+<div class="il">
+<span class="il-w"><span class="il-p">Bhavogho'ti</span><span class="il-g">有暴流——</span></span>
+<span class="il-w"><span class="il-p">rūpārūpabhavesu</span><span class="il-g">于色/无色界</span></span>
+<span class="il-w"><span class="il-p">chando</span><span class="il-g">欲求</span></span>
+<span class="il-w"><span class="il-p">rāgo</span><span class="il-g">贪着</span></span>
+<span class="il-w"><span class="il-p">jhānanikanti</span><span class="il-g">对禅的喜好</span></span>
+<span class="il-w"><span class="il-p">ca</span><span class="il-g">及</span></span>
+</div>
 
 > *Diṭṭhogho'ti dvāsaṭṭhi diṭṭhiyo.*
 
-**Diṭṭhogho'ti** 复合词＋引语词 · 见暴流——  
-**dvāsaṭṭhi** 数词 · 六十二  
-**diṭṭhiyo** 名词·主格复数（√dis） · 邪见  
+<div class="il">
+<span class="il-w"><span class="il-p">Diṭṭhogho'ti</span><span class="il-g">见暴流——</span></span>
+<span class="il-w"><span class="il-p">dvāsaṭṭhi</span><span class="il-g">六十二</span></span>
+<span class="il-w"><span class="il-p">diṭṭhiyo</span><span class="il-g">邪见</span></span>
+</div>
 
 > *Avijjogho'ti catūsu saccesu aññāṇaṃ.*
 
-**Avijjogho'ti** 复合词＋引语词 · 无明暴流——  
-**catūsu** 数词·处格 · 于四  
-**saccesu** 名词·处格复数（√sac） · 圣谛  
-**aññāṇaṃ** 名词·主格（a+√ñā） · 无知  
+<div class="il">
+<span class="il-w"><span class="il-p">Avijjogho'ti</span><span class="il-g">无明暴流——</span></span>
+<span class="il-w"><span class="il-p">catūsu saccesu</span><span class="il-g">于四圣谛</span></span>
+<span class="il-w"><span class="il-p">aññāṇaṃ</span><span class="il-g">无知</span></span>
+</div>
 
 「暴流有四种：欲暴流、有暴流、见暴流、无明暴流。」
 
@@ -263,23 +289,31 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 > *"Cirassaṃ vata passāmī"ti – dīghassa addhuno pacchā idāni passāmīti attho.*
 
-**dīghassa addhuno** 形容词·属格＋名词·属格 · 长久的时间  
-**pacchā** 副词 · 之后  
-**idāni passāmi** 副词＋动词·一单 · 现在（才）看见  
-**attho** 名词·主格 · 义  
+<div class="il">
+<span class="il-w"><span class="il-p">dīghassa addhuno</span><span class="il-g">长久的时间</span></span>
+<span class="il-w"><span class="il-p">pacchā</span><span class="il-g">之后</span></span>
+<span class="il-w"><span class="il-p">idāni</span><span class="il-g">现在</span></span>
+<span class="il-w"><span class="il-p">passāmi</span><span class="il-g">才看见</span></span>
+<span class="il-w"><span class="il-p">attho</span><span class="il-g">义</span></span>
+</div>
 
 > *"Parinibbutaṃ brāhmaṇan"ti – bāhitapāpattā brāhmaṇo; parinibbutaṃ nibbānaṃ pattoti attho.*
 
-**bāhitapāpattā** 复合词·具格（bāhita+pāpa+ttā） · 因已去除恶  
-**brāhmaṇo** 名词·主格 · 婆罗门  
-**nibbānaṃ** 名词·业格 · 涅槃  
-**patto** PPP·主格（pa+√āp） · 已达  
+<div class="il">
+<span class="il-w"><span class="il-p">bāhitapāpattā</span><span class="il-g">因已去除恶</span></span>
+<span class="il-w"><span class="il-p">brāhmaṇo</span><span class="il-g">婆罗门</span></span>
+<span class="il-w"><span class="il-p">nibbānaṃ</span><span class="il-g">涅槃</span></span>
+<span class="il-w"><span class="il-p">patto</span><span class="il-g">已达</span></span>
+</div>
 
 > *"Loke visattikan"ti – taṇhā loke visaṭā visattā.*
 
-**taṇhā** 名词·主格 · 渴爱  
-**visaṭā** PPP·主格（vi+√saṭ） · 广布  
-**visattā** PPP·主格（vi+√sañj） · 黏着  
+<div class="il">
+<span class="il-w"><span class="il-p">taṇhā</span><span class="il-g">渴爱</span></span>
+<span class="il-w"><span class="il-p">loke</span><span class="il-g">世间</span></span>
+<span class="il-w"><span class="il-p">visaṭā</span><span class="il-g">广布</span></span>
+<span class="il-w"><span class="il-p">visattā</span><span class="il-g">黏着</span></span>
+</div>
 
 「『终于我确实看见』——久远之后，现在才看见，此义。  
 『般涅槃的婆罗门』——因已去除恶（*bāhitapāpa*）而称婆罗门；已达涅槃，此义。  
@@ -291,21 +325,25 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 > *Sā ca devatā Candano nāma devaputto.*
 
-**Sā** 代词·主格 · 那位  
-**ca** 连词 · 且  
-**devatā** 名词·主格 · 天神  
-**Candano** 名词·主格 · 栴檀  
-**nāma** 副词 · 名为  
-**devaputto** 复合词·主格（deva+putta） · 天子  
+<div class="il">
+<span class="il-w"><span class="il-p">Sā</span><span class="il-g">那位</span></span>
+<span class="il-w"><span class="il-p">ca</span><span class="il-g">且</span></span>
+<span class="il-w"><span class="il-p">devatā</span><span class="il-g">天神</span></span>
+<span class="il-w"><span class="il-p">Candano</span><span class="il-g">栴檀</span></span>
+<span class="il-w"><span class="il-p">nāma</span><span class="il-g">名为</span></span>
+<span class="il-w"><span class="il-p">devaputto</span><span class="il-g">天子</span></span>
+</div>
 
 > *Sā satthārā anumodanamattena sotāpattiphalassa pattā ahosi.*
 
-**Sā** 代词·主格 · 她（那位天神）  
-**satthārā** 名词·具格 · 以导师（一声认可）  
-**anumodanamattena** 复合词·具格（anumodana+matta） · 以一声认可之量  
-**sotāpattiphalassa** 复合词·属格（sotāpatti+phala） · 入流果  
-**pattā** PPP·主格·阴（pa+√āp） · 获得  
-**ahosi** 动词·不定过去式·三单 · 是  
+<div class="il">
+<span class="il-w"><span class="il-p">Sā</span><span class="il-g">她</span></span>
+<span class="il-w"><span class="il-p">satthārā</span><span class="il-g">以导师</span></span>
+<span class="il-w"><span class="il-p">anumodanamattena</span><span class="il-g">一声认可之量</span></span>
+<span class="il-w"><span class="il-p">sotāpattiphalassa</span><span class="il-g">入流果</span></span>
+<span class="il-w"><span class="il-p">pattā</span><span class="il-g">获得</span></span>
+<span class="il-w"><span class="il-p">ahosi</span><span class="il-g">是</span></span>
+</div>
 
 「那位天神名为栴檀天子（Candana devaputta）。  
 她以世尊一声认可（*samanuñña*），当即获得入流果（*sotāpattiphala*）。」
@@ -320,13 +358,15 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 > *"Appatiṭṭhahanto"ti kiles'ādīnaṃ vasena asantiṭṭhanto, asaṃsīdantoti attho.*
 
-**"Appatiṭṭhahanto"** 现在分词·主格（a+pati+√ṭhā） · 不停住  
-**ti** 引语词  
-**kiles'ādīnaṃ** 复合词·属格（kilesa+ādi） · 烦恼等的  
-**vasena** 名词·具格（vasa） · 以…之力  
-**asantiṭṭhanto** 现在分词·主格（a+saṃ+√ṭhā） · 不停驻  
-**asaṃsīdanto** 现在分词·主格（a+saṃ+√sad） · 不沉没  
-**attho** 名词·主格 · 义  
+<div class="il">
+<span class="il-w"><span class="il-p">Appatiṭṭhahanto</span><span class="il-g">不停住</span></span>
+<span class="il-w"><span class="il-p">ti</span><span class="il-g">（引语词）</span></span>
+<span class="il-w"><span class="il-p">kiles'ādīnaṃ</span><span class="il-g">烦恼等的</span></span>
+<span class="il-w"><span class="il-p">vasena</span><span class="il-g">以…之力</span></span>
+<span class="il-w"><span class="il-p">asantiṭṭhanto</span><span class="il-g">不停驻</span></span>
+<span class="il-w"><span class="il-p">asaṃsīdanto</span><span class="il-g">不沉没</span></span>
+<span class="il-w"><span class="il-p">attho</span><span class="il-g">义</span></span>
+</div>
 
 「『不停住』——指不因烦恼等而停驻；『不沉没』，此义。」
 
@@ -338,24 +378,6 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 停住于等至之乐，即是执取（*upādāna*）；执取是轮回的燃料，故停住必致沉没。  
 用力（*āyūhāmi*）激起渴爱，渴爱即是被流水冲走的力量，故用力必致漂走。
-
----
-
-## 附：本经主题图
-
-```
-四暴流（ogha）
-    ↓ 淹没众生
-
-停住（santiṭṭhāmi）→ 沉没（saṃsīdāmi）   ← 执取等至之乐
-用力（āyūhāmi）  → 被冲走（nibbuyhāmi）  ← 激起有渴爱
-
-    ↓ 中道
-
-无住立（appatiṭṭhaṃ）∧ 无用力（anāyūhaṃ）
-    ↓
-渡过暴流（oghataraṇa）→ 般涅槃（parinibbutaṃ）
-```
 
 ---
 

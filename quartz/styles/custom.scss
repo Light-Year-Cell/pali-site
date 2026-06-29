@@ -1,3 +1,28 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// 行间注格式：巴利词上，汉语释义下
+.il {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em 1.2em;
+  margin: 0.6em 0 0.8em 0;
+  padding: 0.6em 0.8em;
+  border-left: 3px solid var(--lightgray);
+}
+
+.il-w {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15em;
+}
+
+.il-p {
+  font-style: italic;
+  color: var(--dark);
+}
+
+.il-g {
+  font-size: 0.82em;
+  color: var(--gray);
+}
