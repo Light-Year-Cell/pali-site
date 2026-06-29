@@ -73,50 +73,43 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ## 三、义注（Sāratthappakāsinī）
 
-*觉音论师（Buddhaghosa Thera）造，五世纪。  
-原典：SA（PTS）1:17–20。*
+*觉音论师（Buddhaghosa Thera）造，五世纪。原典：SA（PTS）1:17–20。*
 
 ### 3.1 释「mārisa」
 
-**〔SA 原文〕**
+<blockquote>
+"<abbr title="名词·呼格·尊者">Mārisā</abbr>"<abbr title="引语词">ti</abbr> <abbr title="形容词·主格·尊贵的">pesalo</abbr> <abbr title="形容词·主格·美好的">bhaddako</abbr> <abbr title="形容词·主格·敬重的">garū</abbr> <abbr title="复合词·主格（ālapana+sadda）·称呼语">ālapanasaddo</abbr>.
+</blockquote>
 
-> *"Mārisā"ti pesalo bhaddako garū ālapanasaddo.*
-
-**〔汉译〕**  
 「『mārisa』是尊贵、美好、敬重的称呼语。」
 
 ---
 
 ### 3.2 释「appatiṭṭhaṃ anāyūhaṃ」
 
-**〔SA 原文〕**
+<blockquote>
+"<abbr title="形容词·业格·无住立">Appatiṭṭhan</abbr>"<abbr title="引语词">ti</abbr> <abbr title="复合词·处格（samāpatti+sukha）·等至之乐中">samāpattisukhe</abbr> <abbr title="现在分词·主格（a+pati+√ṭhā）·不停住">appatiṭṭhahanto</abbr>.<br>
+"<abbr title="形容词·业格·无用力">Anāyūhan</abbr>"<abbr title="引语词">ti</abbr> <abbr title="复合词·具格（bhava+taṇhā）·以对有的渴爱">bhavataṇhāya</abbr> <abbr title="动名词·业格（ā+√yuh）·用力、挣扎">āyūhanaṃ</abbr> <abbr title="现在分词·主格（a+√kar）·不作">akaronto</abbr>.
+</blockquote>
 
-> *"Appatiṭṭhan"ti samāpattisukhe appatiṭṭhahanto.*  
-> *"Anāyūhan"ti bhavataṇhāya āyūhanaṃ akaronto.*
-
-**〔汉译〕**  
 「『无住立』——不停住于等至（*samāpatti*）之乐中。  
 『无用力』——不激起对有（*bhava*）的渴爱之挣扎。」
 
-**〔说明〕**  
-修道的核心是中道——既不执取禅定之乐（若停住，则如沉于水），也不激起欲求（若用力，则如被水冲走）。
+**〔说明〕** 修道的核心是中道——既不执取禅定之乐（若停住，则如沉于水），也不激起欲求（若用力，则如被水冲走）。
 
 ---
 
 ### 3.3 释四暴流
 
-**〔SA 原文〕**
+<blockquote>
+<abbr title="数词·主格·四">Cattāro</abbr> <abbr title="名词·主格复数·暴流">oghā</abbr> – <abbr title="复合词·主格（kāma+ogha）·欲暴流">kāmogho</abbr>, <abbr title="复合词·主格（bhava+ogha）·有暴流">bhavogho</abbr>, <abbr title="复合词·主格（diṭṭhi+ogha）·见暴流">diṭṭhogho</abbr>, <abbr title="复合词·主格（avijjā+ogha）·无明暴流">avijjogho</abbr>.<br><br>
+<abbr title="复合词+引语词·欲暴流——">Kāmogho'ti</abbr> <abbr title="复合词·处格复数（pañca+kāma+guṇa）·于五欲">pañcakāmaguṇesu</abbr> <abbr title="名词·主格（√chand）·欲求">chando</abbr> <abbr title="名词·主格（√rañj）·贪着">rāgo</abbr>.<br>
+<abbr title="复合词+引语词·有暴流——">Bhavogho'ti</abbr> <abbr title="复合词·处格复数（rūpa+arūpa+bhava）·于色界、无色界">rūpārūpabhavesu</abbr> <abbr title="名词·主格·欲求">chando</abbr> <abbr title="名词·主格·贪着">rāgo</abbr> <abbr title="复合词·主格（jhāna+nikanti）·对禅的喜好">jhānanikanti</abbr> <abbr title="连词·及">ca</abbr>.<br>
+<abbr title="复合词+引语词·见暴流——">Diṭṭhogho'ti</abbr> <abbr title="数词·六十二">dvāsaṭṭhi</abbr> <abbr title="名词·主格复数（√dis）·邪见">diṭṭhiyo</abbr>.<br>
+<abbr title="复合词+引语词·无明暴流——">Avijjogho'ti</abbr> <abbr title="数词·处格·于四">catūsu</abbr> <abbr title="名词·处格复数（√sac）·圣谛">saccesu</abbr> <abbr title="名词·主格（a+√ñā）·无知">aññāṇaṃ</abbr>.
+</blockquote>
 
-> *Cattāro oghā – kāmogho, bhavogho, diṭṭhogho, avijjogho.*
->
-> *Kāmogho'ti pañcakāmaguṇesu chando rāgo.*  
-> *Bhavogho'ti rūpārūpabhavesu chando rāgo jhānanikanti ca.*  
-> *Diṭṭhogho'ti dvāsaṭṭhi diṭṭhiyo.*  
-> *Avijjogho'ti catūsu saccesu aññāṇaṃ.*
-
-**〔汉译〕**  
 「暴流有四种：欲暴流、有暴流、见暴流、无明暴流。
-
 - 欲暴流：对五欲的欲求与贪着。
 - 有暴流：对色界、无色界的欲求与贪着，及对禅的喜好执着。
 - 见暴流：六十二种邪见。
@@ -126,13 +119,12 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ### 3.4 释偈颂「brāhmaṇaṃ parinibbutaṃ」
 
-**〔SA 原文〕**
+<blockquote>
+"<abbr title="副词·久远之后">Cirassaṃ</abbr> <abbr title="感叹词·确实啊">vata</abbr> <abbr title="动词·现在式·一单·我看见">passāmī</abbr>"<abbr title="引语词">ti</abbr> – <abbr title="形容词·属格·长久的">dīghassa</abbr> <abbr title="名词·属格·时间">addhuno</abbr> <abbr title="副词·之后">pacchā</abbr> <abbr title="副词·现在">idāni</abbr> <abbr title="动词·现在式·一单·我看见">passāmi</abbr><abbr title="引语词">ti</abbr> <abbr title="名词·主格·义">attho</abbr>.<br><br>
+"<abbr title="PPP·业格·已般涅槃的">Parinibbutaṃ</abbr> <abbr title="名词·业格·婆罗门">brāhmaṇan</abbr>"<abbr title="引语词">ti</abbr> – <abbr title="复合词·具格（bāhita+pāpa+ttā）·因已去除恶">bāhitapāpattā</abbr> <abbr title="名词·主格·婆罗门">brāhmaṇo</abbr>; <abbr title="PPP·业格·已般涅槃的">parinibbutaṃ</abbr> <abbr title="名词·业格·涅槃">nibbānaṃ</abbr> <abbr title="PPP·主格（pa+√āp）·已达">patto</abbr><abbr title="引语词">ti</abbr> <abbr title="名词·主格·义">attho</abbr>.<br><br>
+"<abbr title="名词·处格·世间">Loke</abbr> <abbr title="形容词·业格（vi+√sañj）·执着">visattikan</abbr>"<abbr title="引语词">ti</abbr> – <abbr title="名词·主格·渴爱">taṇhā</abbr> <abbr title="名词·处格·世间">loke</abbr> <abbr title="PPP·主格（vi+√saṭ）·广布">visaṭā</abbr> <abbr title="PPP·主格（vi+√sañj）·黏着">visattā</abbr>.
+</blockquote>
 
-> *"Cirassaṃ vata passāmī"ti – dīghassa addhuno pacchā idāni passāmīti attho.*  
-> *"Parinibbutaṃ brāhmaṇan"ti – bāhitapāpattā brāhmaṇo; parinibbutaṃ nibbānaṃ pattoti attho.*  
-> *"Loke visattikan"ti – taṇhā loke visaṭā visattā.*
-
-**〔汉译〕**  
 「『终于我确实看见』——久远之后，现在才看见，此义。  
 『般涅槃的婆罗门』——因已去除恶（*bāhitapāpa*）而称婆罗门；已达般涅槃，即已达涅槃，此义。  
 『世间中的执着』——渴爱（*taṇhā*）广布、黏着于世间。」
@@ -141,12 +133,11 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ### 3.5 天神身份与得果
 
-**〔SA 原文〕**
+<blockquote>
+<abbr title="代词·主格·那位">Sā</abbr> <abbr title="连词·且">ca</abbr> <abbr title="名词·主格·天神">devatā</abbr> <abbr title="名词·主格·栴檀">Candano</abbr> <abbr title="副词·名为">nāma</abbr> <abbr title="复合词·主格（deva+putta）·天子">devaputto</abbr>.<br>
+<abbr title="代词·主格·她（那位天神）">Sā</abbr> <abbr title="名词·具格·以导师">satthārā</abbr> <abbr title="复合词·具格（anumodana+matta）·以一声认可之量">anumodanamattena</abbr> <abbr title="复合词·属格（sotāpatti+phala）·入流果">sotāpattiphalassa</abbr> <abbr title="PPP·主格·阴（pa+√āp）·获得">pattā</abbr> <abbr title="动词·不定过去式·三单·是">ahosi</abbr>.
+</blockquote>
 
-> *Sā ca devatā Candano nāma devaputto.*  
-> *Sā satthārā anumodanamattena sotāpattiphalassa pattā ahosi.*
-
-**〔汉译〕**  
 「那位天神名为栴檀天子（Candana devaputta）。  
 她以世尊一声认可（*samanuñña*），当即获得入流果（*sotāpattiphala*）。」
 
@@ -154,29 +145,24 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ## 四、复注（Sāratthappakāsinī-ṭīkā）
 
-*法护论师（Dhammapāla Thera）造，六世纪。  
-原典：SAPṬ（Be）1:46。*
+*法护论师（Dhammapāla Thera）造，六世纪。原典：SAPṬ（Be）1:46。*
 
 ### 4.1 释「appatiṭṭha」之深义
 
-**〔SAPṬ 原文〕**
+<blockquote>
+"<abbr title="现在分词·主格（a+pati+√ṭhā）·不停住">Appatiṭṭhahanto</abbr>"<abbr title="引语词">ti</abbr> <abbr title="复合词·属格（kilesa+ādi）·烦恼等的">kiles'ādīnaṃ</abbr> <abbr title="名词·具格（vasa）·以…之力">vasena</abbr> <abbr title="现在分词·主格（a+saṃ+√ṭhā）·不停驻">asantiṭṭhanto</abbr>, <abbr title="现在分词·主格（a+saṃ+√sad）·不沉没">asaṃsīdanto</abbr><abbr title="引语词">ti</abbr> <abbr title="名词·主格·义">attho</abbr>.
+</blockquote>
 
-> *"Appatiṭṭhahanto"ti kiles'ādīnaṃ vasena asantiṭṭhanto, asaṃsīdantoti attho.*
-
-**〔汉译〕**  
 「『不停住』——指不因烦恼等而停驻；『不沉没』，此义。」
 
-**〔说明〕**  
-义注说的「不停住于等至之乐」是就修行面而言；复注补充更根本的意涵：「*appatiṭṭha*」的核心是心不被烦恼牵绊而沉没——这正是涅槃的特质：**不生起（*appavatta*）、无所缘（*anārammaṇa*）**。
+**〔说明〕** 义注说的「不停住于等至之乐」是就修行面而言；复注补充更根本的意涵：「*appatiṭṭha*」的核心是心不被烦恼牵绊而沉没——这正是涅槃的特质：**不生起（*appavatta*）、无所缘（*anārammaṇa*）**。
 
 ---
 
 ### 4.2 对「santiṭṭhāmi → saṃsīdāmi」的诠释
 
-**〔SAPṬ 说明〕**
-
-> 停住于等至之乐，即是执取（*upādāna*）；执取是轮回的燃料，故停住必致沉没。  
-> 用力（*āyūhāmi*）激起渴爱，渴爱即是被流水冲走的力量，故用力必致漂走。
+停住于等至之乐，即是执取（*upādāna*）；执取是轮回的燃料，故停住必致沉没。  
+用力（*āyūhāmi*）激起渴爱，渴爱即是被流水冲走的力量，故用力必致漂走。
 
 ---
 
