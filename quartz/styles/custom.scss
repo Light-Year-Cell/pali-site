@@ -31,3 +31,106 @@
   font-size: 0.82em;
   color: var(--darkgray);
 }
+
+// 打印 / PDF 导出样式：只保留正文，去掉站点导航等界面元素
+@media print {
+  // 隐藏所有页面框架：侧栏、页脚、面包屑、日期元数据、目录、深色模式开关、弹窗等。
+  // 注意：不隐藏 .page-header —— 经文标题（.article-title）在它里面，需保留；
+  // 只单独隐藏 header 里的面包屑与元数据。
+  .sidebar,
+  .breadcrumb-container,
+  .breadcrumbs,
+  .content-meta,
+  .toc,
+  .explorer,
+  .darkmode,
+  .search,
+  .reader-mode,
+  .popover,
+  .graph,
+  footer,
+  .footer,
+  .backlinks {
+    display: none !important;
+  }
+
+  // 页眉容器只留标题，去掉多余留白
+  .page-header {
+    margin: 0 0 0.5em 0 !important;
+    padding: 0 !important;
+  }
+
+  // 正文占满整页宽度
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  #quartz-body,
+  .page > #quartz-body {
+    display: block !important;
+    grid-template-columns: none !important;
+    grid-template-areas: none !important;
+  }
+
+  .center,
+  .page > #quartz-body .center {
+    grid-template-columns: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .center > article,
+  article {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  // 文字统一为黑色，保证打印/PDF 清晰
+  body,
+  article,
+  p,
+  li,
+  .il-p,
+  .il-g {
+    color: #000 !important;
+  }
+
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  // 行间注块：避免在分页处被切开
+  .il {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border-left-color: #999 !important;
+  }
+
+  .il-w {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .il-gr {
+    color: #555 !important;
+  }
+
+  // 标题不要落在页尾孤零零一行
+  h1,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  // 隐藏页面底部「回目录」「下载 PDF」这类导航（PDF 里不需要）
+  .pdf-hide {
+    display: none !important;
+  }
+}

@@ -47,13 +47,13 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 <span class="il-w"><span class="il-p">abhikkantavaṇṇā</span><span class="il-gr">形·主格·女</span><span class="il-g">极美光色的</span></span>
 <span class="il-w"><span class="il-p">kevalakappaṃ</span><span class="il-gr">副词</span><span class="il-g">几乎整个</span></span>
 <span class="il-w"><span class="il-p">jetavanaṃ</span><span class="il-gr">名·业格·中</span><span class="il-g">祇园</span></span>
-<span class="il-w"><span class="il-p">obhāsetvā</span><span class="il-gr">动·副分</span><span class="il-g">照亮后</span></span>
+<span class="il-w"><span class="il-p">obhāsetvā</span><span class="il-gr">连续体</span><span class="il-g">照亮后</span></span>
 <span class="il-w"><span class="il-p">yena</span><span class="il-gr">关·处格</span><span class="il-g">往…之处</span></span>
 <span class="il-w"><span class="il-p">bhagavā</span><span class="il-gr">名·主格</span><span class="il-g">世尊</span></span>
 <span class="il-w"><span class="il-p">tena·upasaṅkami</span><span class="il-gr">动·不过·三单</span><span class="il-g">往那里靠近</span></span>
-<span class="il-w"><span class="il-p">upasaṅkamitvā</span><span class="il-gr">动·副分</span><span class="il-g">靠近后</span></span>
+<span class="il-w"><span class="il-p">upasaṅkamitvā</span><span class="il-gr">连续体</span><span class="il-g">靠近后</span></span>
 <span class="il-w"><span class="il-p">bhagavantaṃ</span><span class="il-gr">名·业格</span><span class="il-g">世尊</span></span>
-<span class="il-w"><span class="il-p">abhivādetvā</span><span class="il-gr">动·副分</span><span class="il-g">顶礼后</span></span>
+<span class="il-w"><span class="il-p">abhivādetvā</span><span class="il-gr">连续体</span><span class="il-g">顶礼后</span></span>
 <span class="il-w"><span class="il-p">ekamantaṃ</span><span class="il-gr">副词</span><span class="il-g">一旁</span></span>
 <span class="il-w"><span class="il-p">aṭṭhāsi</span><span class="il-gr">动·不过·三单</span><span class="il-g">站立</span></span>
 </div>
@@ -167,8 +167,8 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 <span class="il-w"><span class="il-p">sā</span><span class="il-gr">代·主格·女</span><span class="il-g">那位</span></span>
 <span class="il-w"><span class="il-p">devatā</span><span class="il-gr">名·主格·女</span><span class="il-g">天神</span></span>
 <span class="il-w"><span class="il-p">bhagavantaṃ</span><span class="il-gr">名·业格</span><span class="il-g">世尊</span></span>
-<span class="il-w"><span class="il-p">abhivādetvā</span><span class="il-gr">动·副分</span><span class="il-g">顶礼后</span></span>
-<span class="il-w"><span class="il-p">padakkhiṇaṃ·katvā</span><span class="il-gr">副·动·副分</span><span class="il-g">右绕后</span></span>
+<span class="il-w"><span class="il-p">abhivādetvā</span><span class="il-gr">连续体</span><span class="il-g">顶礼后</span></span>
+<span class="il-w"><span class="il-p">padakkhiṇaṃ·katvā</span><span class="il-gr">副·连续体</span><span class="il-g">右绕后</span></span>
 <span class="il-w"><span class="il-p">tattheva</span><span class="il-gr">副词</span><span class="il-g">就在那里</span></span>
 <span class="il-w"><span class="il-p">antaradhāyī</span><span class="il-gr">动·不过·三单</span><span class="il-g">消失</span></span>
 </div>
@@ -181,7 +181,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 *觉音论师（Buddhaghosa Thera）造，五世纪。原典：SA i.17–20（WikiPali book 133，ch.99–121）。*
 
-### 3.1 释「mārisā」
+### 2.1 释「mārisā」
 
 <div class="il">
 <span class="il-w"><span class="il-p">Mārisā</span><span class="il-gr">名·呼格</span><span class="il-g">尊者</span></span>
@@ -198,7 +198,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 3.2 释「appatiṭṭhaṃ anāyūhaṃ」
+### 2.2 释「appatiṭṭhaṃ anāyūhaṃ」
 
 <div class="il">
 <span class="il-w"><span class="il-p">Appatiṭṭhan</span><span class="il-gr">副词</span><span class="il-g">无住立</span></span>
@@ -222,7 +222,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 3.3 为何以隐语作答
+### 2.3 为何以隐语作答
 
 义注解释世尊为何不明言：此天子（*devaputto*）我慢坚固（*mānatthaddho*），自以为博学（*paṇḍitamānī*）。他心中如此想：
 
@@ -236,7 +236,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 3.4 释四暴流
+### 2.4 释四暴流
 
 <div class="il">
 <span class="il-w"><span class="il-p">Cattāro</span><span class="il-gr">数·主格</span><span class="il-g">四</span></span>
@@ -286,7 +286,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 3.5 释第二答「yadāsvāhaṃ」与七对
+### 2.5 释第二答「yadāsvāhaṃ」与七对
 
 世尊第二次作答（*yadā svāhaṃ…*）时，义注展示「停住→沉没 / 用力→冲走」的**七对**（*satta dukā*）：
 
@@ -304,7 +304,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 3.6 释偈颂「brāhmaṇaṃ parinibbutaṃ」
+### 2.6 释偈颂「brāhmaṇaṃ parinibbutaṃ」
 
 <div class="il">
 <span class="il-w"><span class="il-p">cirassan</span><span class="il-gr">副词</span><span class="il-g">久远之后</span></span>
@@ -349,12 +349,12 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 3.7 天神得果
+### 2.7 天神得果
 
 <div class="il">
 <span class="il-w"><span class="il-p">devatā</span><span class="il-gr">名·主格·女</span><span class="il-g">天神</span></span>
 <span class="il-w"><span class="il-p">sotāpattiphale</span><span class="il-gr">名·处格·中</span><span class="il-g">于入流果中</span></span>
-<span class="il-w"><span class="il-p">patiṭṭhāya</span><span class="il-gr">动·副分</span><span class="il-g">安立后</span></span>
+<span class="il-w"><span class="il-p">patiṭṭhāya</span><span class="il-gr">连续体</span><span class="il-g">安立后</span></span>
 <span class="il-w"><span class="il-p">tuṭṭhā</span><span class="il-gr">PPP·主格·女</span><span class="il-g">满足的</span></span>
 <span class="il-w"><span class="il-p">pasannā</span><span class="il-gr">PPP·主格·女</span><span class="il-g">信净的</span></span>
 </div>
@@ -379,7 +379,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 *法护论师（Dhammapāla Thera）造，六世纪。原典：SAPṬ（Be）i.46。*
 
-### 4.1 释「appatiṭṭhahanto」之深义
+### 3.1 释「appatiṭṭhahanto」之深义
 
 <div class="il">
 <span class="il-w"><span class="il-p">Appatiṭṭhahanto</span><span class="il-gr">动·现分·主格</span><span class="il-g">不停住</span></span>
@@ -398,7 +398,7 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ---
 
-### 4.2 对「santiṭṭhāmi → saṃsīdāmi」的诠释
+### 3.2 对「santiṭṭhāmi → saṃsīdāmi」的诠释
 
 义注七对之义：烦恼令心停住，停住即是沉没；行（*abhisaṅkhāra*）令心用力，用力即是被冲走。  
 常见是停住于存在（*bhava*），断见是奋力冲向虚无（*vibhava*）——两端皆是轮回的驱力。  
@@ -408,9 +408,9 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 
 ## 四、语法要点
 
-### 5.1 副分词（Absolutive）— *-tvā / -itvā*
+### 4.1 连续体（Absolutive）— *-tvā / -itvā*
 
-副分词表示「先做 X，再做 Y」，相当于英语 *having done*。动词不定基 + **-tvā**（辅音结尾词根）或 **-itvā**（元音结尾词根）。
+连续体表示「先做 X，再做 Y」，相当于英语 *having done*。动词不定基 + **-tvā**（辅音结尾词根）或 **-itvā**（元音结尾词根）。
 
 <div class="il">
 <span class="il-w"><span class="il-p">upasaṅkami**tvā**</span><span class="il-gr">副分</span><span class="il-g">靠近**后**</span></span>
@@ -419,13 +419,13 @@ tags: [相应部, 诸天相应, 有偈篇, 巴利原文, 义注, 复注, 逐词�
 <span class="il-w"><span class="il-p">upasaṅkami**tvā**</span><span class="il-gr">副分</span><span class="il-g">靠近**后**</span></span>
 </div>
 
-本经中几乎所有动作链都用副分词串联：「靠近→顶礼→站立→问话」，每步皆以 *-tvā* 收束，最后一个动词才用限定形（finite verb）。
+本经中几乎所有动作链都用连续体串联：「靠近→顶礼→站立→问话」，每步皆以 *-tvā* 收束，最后一个动词才用限定形（finite verb）。
 
-特例：*padakkhiṇaṃ **katvā***（右绕**后**）—— *karoti*（做）的副分为 **katvā**，不规则形。
+特例：*padakkhiṇaṃ **katvā***（右绕**后**）—— *karoti*（做）的连续体为 **katvā**，不规则形。
 
 ---
 
-### 5.2 过去被动分词（PPP）— *-ta / -ita*
+### 4.2 过去被动分词（PPP）— *-ta / -ita*
 
 PPP 由动词词根 + **-ta**（或 **-ita**）构成，功能相当于英语 *-ed* 形容词，随所修饰名词的性数格变化。
 
@@ -439,7 +439,7 @@ PPP 由动词词根 + **-ta**（或 **-ita**）构成，功能相当于英语 *-
 
 ---
 
-### 5.3 yadā … tadā — 时间相关句
+### 4.3 yadā … tadā — 时间相关句
 
 **yadā**（当…时）+ 主句，**tadā**（那时）+ 结果句，构成时间条件句。
 
@@ -457,7 +457,7 @@ PPP 由动词词根 + **-ta**（或 **-ita**）构成，功能相当于英语 *-
 
 ---
 
-### 5.4 yena … tena — 处格关联句
+### 4.4 yena … tena — 处格关联句
 
 **yena**（往…之处）+ **tena**（往那里），构成方向关联句，均为处格（Locative）用作方向副词。
 
@@ -472,7 +472,7 @@ PPP 由动词词根 + **-ta**（或 **-ita**）构成，功能相当于英语 *-
 
 ---
 
-### 5.5 连声（Sandhi）— khvāhaṃ
+### 4.5 连声（Sandhi）— khvāhaṃ
 
 巴利语连声规则常使相邻词拼合，须能还原：
 
@@ -485,7 +485,7 @@ PPP 由动词词根 + **-ta**（或 **-ita**）构成，功能相当于英语 *-
 
 ---
 
-### 5.6 副词性业格 — 中性名词/形容词作副词
+### 4.6 副词性业格 — 中性名词/形容词作副词
 
 中性名词或形容词的**业格单数**（-aṃ）可直接用作副词，无需额外词缀。
 
@@ -499,4 +499,8 @@ PPP 由动词词根 + **-ta**（或 **-ita**）构成，功能相当于英语 *-
 
 ---
 
-*← [[SN01-诸天相应/index|回诸天相应目录]]*
+<div class="pdf-hide">
+
+📄 [下载 PDF 版本](pdf/SN1.1.pdf) &nbsp;·&nbsp; *← [[SN01-诸天相应/index|回诸天相应目录]]*
+
+</div>
